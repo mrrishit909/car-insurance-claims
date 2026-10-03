@@ -1,0 +1,2869 @@
+spec,fold,term,coefficient
+poisson all,0,intercept,-2.460012785275621
+poisson all,0,driver age: 18-20,0.11391012131915995
+poisson all,0,driver age: 21-25,-0.270177989884197
+poisson all,0,driver age: 26-30,-0.482019721621637
+poisson all,0,driver age: 31-40,-0.3378999458796186
+poisson all,0,driver age: 51-70,-0.05994151749882492
+poisson all,0,driver age: 71+,0.007295654904167112
+poisson all,0,bonus-malus: 51-59,0.2935504798194309
+poisson all,0,bonus-malus: 60-79,0.6210487365941411
+poisson all,0,bonus-malus: 80-99,0.7458008519233793
+poisson all,0,bonus-malus: 100+,1.4492178571511942
+poisson all,0,vehicle age: 0,1.1565092351963149
+poisson all,0,vehicle age: 6-10,0.05764727294400436
+poisson all,0,vehicle age: 11-15,-0.10751131007679561
+poisson all,0,vehicle age: 16+,-0.3665545938625275
+poisson all,0,vehicle power: 4,-0.20463787534062472
+poisson all,0,vehicle power: 5,-0.03407744289551906
+poisson all,0,vehicle power: 7,-0.0757261051742194
+poisson all,0,vehicle power: 8,-0.2787132618814169
+poisson all,0,vehicle power: 9+,0.0014686722534227143
+poisson all,0,density: log of inhabitants per km2,0.038592532208912414
+poisson all,0,vehicle brand: B1,-0.13939298544124332
+poisson all,0,vehicle brand: B10,-0.13318328564465431
+poisson all,0,vehicle brand: B11,-0.05977404461400868
+poisson all,0,vehicle brand: B13,-0.08976371986843236
+poisson all,0,vehicle brand: B14,-0.28925294773065274
+poisson all,0,vehicle brand: B2,-0.14750083995452962
+poisson all,0,vehicle brand: B3,-0.12575264530871685
+poisson all,0,vehicle brand: B4,-0.12236869493793942
+poisson all,0,vehicle brand: B5,-0.05152123885808839
+poisson all,0,vehicle brand: B6,-0.14564959029099422
+poisson all,0,fuel: diesel,-0.08194899042151907
+poisson all,0,region: R11,-0.14047395187294082
+poisson all,0,region: R21,0.022290564019436375
+poisson all,0,region: R22,-0.029748700480218028
+poisson all,0,region: R23,-0.20724661858462065
+poisson all,0,region: R25,-0.04431151738012165
+poisson all,0,region: R26,-0.0929559722935356
+poisson all,0,region: R31,-0.19324370768948743
+poisson all,0,region: R41,-0.33354112758449506
+poisson all,0,region: R42,-0.06097755293180097
+poisson all,0,region: R43,-0.08690451267473936
+poisson all,0,region: R52,-0.062150223198604526
+poisson all,0,region: R53,0.037864829270239965
+poisson all,0,region: R54,-0.1296378598705101
+poisson all,0,region: R72,-0.15449499697551525
+poisson all,0,region: R73,-0.21251738210151164
+poisson all,0,region: R74,0.06889870164364051
+poisson all,0,region: R82,-0.008062949036570913
+poisson all,0,region: R83,-0.3747767325459648
+poisson all,0,region: R91,-0.13243422713559794
+poisson all,0,region: R93,-0.0868177925692903
+poisson all,0,region: R94,0.02412682041675215
+poisson all,1,intercept,-2.512931211410538
+poisson all,1,driver age: 18-20,0.08370347021936354
+poisson all,1,driver age: 21-25,-0.26749209116263156
+poisson all,1,driver age: 26-30,-0.4718891152658875
+poisson all,1,driver age: 31-40,-0.34757477210985055
+poisson all,1,driver age: 51-70,-0.04130307902684976
+poisson all,1,driver age: 71+,0.0263518626665899
+poisson all,1,bonus-malus: 51-59,0.2968302124707739
+poisson all,1,bonus-malus: 60-79,0.6491059949820013
+poisson all,1,bonus-malus: 80-99,0.7645270661568575
+poisson all,1,bonus-malus: 100+,1.469775334430926
+poisson all,1,vehicle age: 0,1.1878761359799916
+poisson all,1,vehicle age: 6-10,0.07438865362052731
+poisson all,1,vehicle age: 11-15,-0.09125034298095473
+poisson all,1,vehicle age: 16+,-0.3554101755744628
+poisson all,1,vehicle power: 4,-0.19436781970032832
+poisson all,1,vehicle power: 5,-0.005734621164350685
+poisson all,1,vehicle power: 7,-0.07444348742006186
+poisson all,1,vehicle power: 8,-0.27624349164107687
+poisson all,1,vehicle power: 9+,0.004261700317748451
+poisson all,1,density: log of inhabitants per km2,0.03972778507869203
+poisson all,1,vehicle brand: B1,-0.1331293950071145
+poisson all,1,vehicle brand: B10,-0.09726633332596736
+poisson all,1,vehicle brand: B11,-0.022549413455835342
+poisson all,1,vehicle brand: B13,-0.10806944006796121
+poisson all,1,vehicle brand: B14,-0.3018433411805869
+poisson all,1,vehicle brand: B2,-0.13964974197597083
+poisson all,1,vehicle brand: B3,-0.14017048100532434
+poisson all,1,vehicle brand: B4,-0.1537235878075528
+poisson all,1,vehicle brand: B5,-0.06648173402187617
+poisson all,1,vehicle brand: B6,-0.13716318078399006
+poisson all,1,fuel: diesel,-0.0771571645524006
+poisson all,1,region: R11,-0.13179477593305503
+poisson all,1,region: R21,0.04165874280928289
+poisson all,1,region: R22,0.00152290824792021
+poisson all,1,region: R23,-0.13561633026073908
+poisson all,1,region: R25,-0.08277530115837949
+poisson all,1,region: R26,-0.0940384833573343
+poisson all,1,region: R31,-0.15174614503689568
+poisson all,1,region: R41,-0.2841038628963831
+poisson all,1,region: R42,-0.016982328902043112
+poisson all,1,region: R43,-0.19808568828535744
+poisson all,1,region: R52,-0.08123319107089476
+poisson all,1,region: R53,0.03348976987045221
+poisson all,1,region: R54,-0.127965050057007
+poisson all,1,region: R72,-0.15599627019690004
+poisson all,1,region: R73,-0.22057073798915186
+poisson all,1,region: R74,0.062388469013142295
+poisson all,1,region: R82,0.014349910999877617
+poisson all,1,region: R83,-0.4637465321997009
+poisson all,1,region: R91,-0.13505935540292824
+poisson all,1,region: R93,-0.09897646626141193
+poisson all,1,region: R94,0.014504497485265186
+poisson all,2,intercept,-2.4723881198396476
+poisson all,2,driver age: 18-20,0.04929469803025132
+poisson all,2,driver age: 21-25,-0.29223983562904654
+poisson all,2,driver age: 26-30,-0.5105346224824768
+poisson all,2,driver age: 31-40,-0.34855273759077926
+poisson all,2,driver age: 51-70,-0.07015885112294051
+poisson all,2,driver age: 71+,0.02635530132466308
+poisson all,2,bonus-malus: 51-59,0.29287114028516575
+poisson all,2,bonus-malus: 60-79,0.6466130171759842
+poisson all,2,bonus-malus: 80-99,0.775928820801876
+poisson all,2,bonus-malus: 100+,1.4776042471910338
+poisson all,2,vehicle age: 0,1.1914413870616727
+poisson all,2,vehicle age: 6-10,0.060565250160001576
+poisson all,2,vehicle age: 11-15,-0.12209320994629212
+poisson all,2,vehicle age: 16+,-0.3673483420666974
+poisson all,2,vehicle power: 4,-0.23774268807243804
+poisson all,2,vehicle power: 5,-0.03904252560656988
+poisson all,2,vehicle power: 7,-0.09602850752819868
+poisson all,2,vehicle power: 8,-0.3047828165091391
+poisson all,2,vehicle power: 9+,-0.0015867365899488715
+poisson all,2,density: log of inhabitants per km2,0.04033622926003324
+poisson all,2,vehicle brand: B1,-0.13749949869539282
+poisson all,2,vehicle brand: B10,-0.10656925792949772
+poisson all,2,vehicle brand: B11,-0.033402913529642864
+poisson all,2,vehicle brand: B13,-0.0644562790907909
+poisson all,2,vehicle brand: B14,-0.2356181316686909
+poisson all,2,vehicle brand: B2,-0.13565880391290266
+poisson all,2,vehicle brand: B3,-0.1411991682847299
+poisson all,2,vehicle brand: B4,-0.1423522926896034
+poisson all,2,vehicle brand: B5,-0.07968681895684629
+poisson all,2,vehicle brand: B6,-0.12582012398714348
+poisson all,2,fuel: diesel,-0.07195904914191538
+poisson all,2,region: R11,-0.13563123799538737
+poisson all,2,region: R21,0.025254660589324542
+poisson all,2,region: R22,-0.006627751975092558
+poisson all,2,region: R23,-0.17313573532283913
+poisson all,2,region: R25,-0.0465664818398631
+poisson all,2,region: R26,-0.0874779094698106
+poisson all,2,region: R31,-0.18229231127205908
+poisson all,2,region: R41,-0.29755926620367545
+poisson all,2,region: R42,-0.18019599548426712
+poisson all,2,region: R43,-0.20194172534591806
+poisson all,2,region: R52,-0.08910717953094398
+poisson all,2,region: R53,0.015392693110953934
+poisson all,2,region: R54,-0.11846248261964534
+poisson all,2,region: R72,-0.17008276666850466
+poisson all,2,region: R73,-0.20798000723111795
+poisson all,2,region: R74,0.15267194246542493
+poisson all,2,region: R82,0.0006263474690962796
+poisson all,2,region: R83,-0.3726991270870606
+poisson all,2,region: R91,-0.158186903480154
+poisson all,2,region: R93,-0.09005686583913099
+poisson all,2,region: R94,0.06545575351479474
+poisson all,3,intercept,-2.5190328189430025
+poisson all,3,driver age: 18-20,0.07404668164941769
+poisson all,3,driver age: 21-25,-0.2809075772813193
+poisson all,3,driver age: 26-30,-0.4820312730505049
+poisson all,3,driver age: 31-40,-0.34772878929435297
+poisson all,3,driver age: 51-70,-0.057293759635753734
+poisson all,3,driver age: 71+,0.040386615944169806
+poisson all,3,bonus-malus: 51-59,0.28309523030408296
+poisson all,3,bonus-malus: 60-79,0.6288025403161736
+poisson all,3,bonus-malus: 80-99,0.7637090975158312
+poisson all,3,bonus-malus: 100+,1.4805185695281522
+poisson all,3,vehicle age: 0,1.1727495428650667
+poisson all,3,vehicle age: 6-10,0.06674642963776309
+poisson all,3,vehicle age: 11-15,-0.10575045521885015
+poisson all,3,vehicle age: 16+,-0.33592919036657304
+poisson all,3,vehicle power: 4,-0.21478361653380207
+poisson all,3,vehicle power: 5,-0.018789880578099896
+poisson all,3,vehicle power: 7,-0.0794562060740114
+poisson all,3,vehicle power: 8,-0.2694566048576528
+poisson all,3,vehicle power: 9+,0.008510232359611035
+poisson all,3,density: log of inhabitants per km2,0.044509689966776046
+poisson all,3,vehicle brand: B1,-0.13006441239284638
+poisson all,3,vehicle brand: B10,-0.09935410058739552
+poisson all,3,vehicle brand: B11,-0.07024019580021298
+poisson all,3,vehicle brand: B13,-0.10122579120445856
+poisson all,3,vehicle brand: B14,-0.24585265100325296
+poisson all,3,vehicle brand: B2,-0.12978904015086884
+poisson all,3,vehicle brand: B3,-0.12258410342561936
+poisson all,3,vehicle brand: B4,-0.14777268640115915
+poisson all,3,vehicle brand: B5,-0.07401962326755883
+poisson all,3,vehicle brand: B6,-0.1435688495807717
+poisson all,3,fuel: diesel,-0.06240804837005024
+poisson all,3,region: R11,-0.15766060387733757
+poisson all,3,region: R21,0.021276194939673903
+poisson all,3,region: R22,0.03166825483278523
+poisson all,3,region: R23,-0.10392925796388905
+poisson all,3,region: R25,-0.08402087945431819
+poisson all,3,region: R26,-0.05732985010806639
+poisson all,3,region: R31,-0.20250034825917534
+poisson all,3,region: R41,-0.312666287857666
+poisson all,3,region: R42,-0.1335630174734897
+poisson all,3,region: R43,-0.21485657256875673
+poisson all,3,region: R52,-0.08718352751034099
+poisson all,3,region: R53,-0.006097164555944133
+poisson all,3,region: R54,-0.10218005063126033
+poisson all,3,region: R72,-0.1483038328316903
+poisson all,3,region: R73,-0.17898873287515074
+poisson all,3,region: R74,0.07592729636746733
+poisson all,3,region: R82,-0.022764321619409562
+poisson all,3,region: R83,-0.35890373831473593
+poisson all,3,region: R91,-0.12159874432673007
+poisson all,3,region: R93,-0.10471317530751084
+poisson all,3,region: R94,0.01585792293089741
+poisson all,4,intercept,-2.480600870264371
+poisson all,4,driver age: 18-20,0.06129528645170775
+poisson all,4,driver age: 21-25,-0.2562660839220875
+poisson all,4,driver age: 26-30,-0.4780212834928909
+poisson all,4,driver age: 31-40,-0.336361806950077
+poisson all,4,driver age: 51-70,-0.05130971319147162
+poisson all,4,driver age: 71+,0.026061380168813465
+poisson all,4,bonus-malus: 51-59,0.3131998028515867
+poisson all,4,bonus-malus: 60-79,0.6475111684193785
+poisson all,4,bonus-malus: 80-99,0.7617465456489775
+poisson all,4,bonus-malus: 100+,1.455884466667619
+poisson all,4,vehicle age: 0,1.1627912255028128
+poisson all,4,vehicle age: 6-10,0.04998480188068158
+poisson all,4,vehicle age: 11-15,-0.11157467386600793
+poisson all,4,vehicle age: 16+,-0.3908869930593684
+poisson all,4,vehicle power: 4,-0.21034531759037836
+poisson all,4,vehicle power: 5,-0.021979918623913405
+poisson all,4,vehicle power: 7,-0.08777219435520524
+poisson all,4,vehicle power: 8,-0.2695956441444727
+poisson all,4,vehicle power: 9+,-0.005421107008549531
+poisson all,4,density: log of inhabitants per km2,0.04213871361090594
+poisson all,4,vehicle brand: B1,-0.13626384440433192
+poisson all,4,vehicle brand: B10,-0.1477537852084218
+poisson all,4,vehicle brand: B11,-0.05764799090530313
+poisson all,4,vehicle brand: B13,-0.06419780333908578
+poisson all,4,vehicle brand: B14,-0.30953014606359885
+poisson all,4,vehicle brand: B2,-0.134996378427382
+poisson all,4,vehicle brand: B3,-0.14616182550400741
+poisson all,4,vehicle brand: B4,-0.14967607011156298
+poisson all,4,vehicle brand: B5,-0.07506959128067041
+poisson all,4,vehicle brand: B6,-0.13643227468637764
+poisson all,4,fuel: diesel,-0.07843987270448054
+poisson all,4,region: R11,-0.13893182806075416
+poisson all,4,region: R21,0.053759293926051034
+poisson all,4,region: R22,-0.07480281320218289
+poisson all,4,region: R23,-0.18608414414741664
+poisson all,4,region: R25,-0.04831912008265427
+poisson all,4,region: R26,-0.04699067893056685
+poisson all,4,region: R31,-0.22191422065721378
+poisson all,4,region: R41,-0.2919394531233796
+poisson all,4,region: R42,-0.13516394537821408
+poisson all,4,region: R43,-0.12255132746396477
+poisson all,4,region: R52,-0.08574236000821
+poisson all,4,region: R53,0.002692960947723417
+poisson all,4,region: R54,-0.10960318958546898
+poisson all,4,region: R72,-0.193525847497579
+poisson all,4,region: R73,-0.18424475320784162
+poisson all,4,region: R74,0.17155490109837607
+poisson all,4,region: R82,-0.019634413304073582
+poisson all,4,region: R83,-0.3794150881251793
+poisson all,4,region: R91,-0.1383438558613895
+poisson all,4,region: R93,-0.10269873782886152
+poisson all,4,region: R94,0.03635872630843139
+poisson all,all,intercept,-2.489017570015585
+poisson all,all,driver age: 18-20,0.07660326625243044
+poisson all,all,driver age: 21-25,-0.2733466631440992
+poisson all,all,driver age: 26-30,-0.48485287138579614
+poisson all,all,driver age: 31-40,-0.34355955483814393
+poisson all,all,driver age: 51-70,-0.055956268726140415
+poisson all,all,driver age: 71+,0.025313543643111218
+poisson all,all,bonus-malus: 51-59,0.29600713747066476
+poisson all,all,bonus-malus: 60-79,0.6386438829156742
+poisson all,all,bonus-malus: 80-99,0.7623214138238008
+poisson all,all,bonus-malus: 100+,1.4666886683439424
+poisson all,all,vehicle age: 0,1.1743239402416752
+poisson all,all,vehicle age: 6-10,0.061857164559930296
+poisson all,all,vehicle age: 11-15,-0.10761205371875626
+poisson all,all,vehicle age: 16+,-0.3631803152541044
+poisson all,all,vehicle power: 4,-0.21237816373597257
+poisson all,all,vehicle power: 5,-0.023880548677222977
+poisson all,all,vehicle power: 7,-0.08266733793510969
+poisson all,all,vehicle power: 8,-0.2796492273985167
+poisson all,all,vehicle power: 9+,0.0013730612158745906
+poisson all,all,density: log of inhabitants per km2,0.04107612193485664
+poisson all,all,vehicle brand: B1,-0.13531188536932445
+poisson all,all,vehicle brand: B10,-0.11667467574607762
+poisson all,all,vehicle brand: B11,-0.048558249400626155
+poisson all,all,vehicle brand: B13,-0.08541824367996896
+poisson all,all,vehicle brand: B14,-0.27600319166146026
+poisson all,all,vehicle brand: B2,-0.13751875373434966
+poisson all,all,vehicle brand: B3,-0.13517468771320065
+poisson all,all,vehicle brand: B4,-0.14313699532660482
+poisson all,all,vehicle brand: B5,-0.06930411139800131
+poisson all,all,vehicle brand: B6,-0.13775630295617042
+poisson all,all,fuel: diesel,-0.07438126752412309
+poisson all,all,region: R11,-0.1408946486507277
+poisson all,all,region: R21,0.03310395217262623
+poisson all,all,region: R22,-0.015205209284474476
+poisson all,all,region: R23,-0.16066877877823507
+poisson all,all,region: R25,-0.06105103473441427
+poisson all,all,region: R26,-0.07534349152513149
+poisson all,all,region: R31,-0.19018562572316844
+poisson all,all,region: R41,-0.3038579352774335
+poisson all,all,region: R42,-0.10345182302988148
+poisson all,all,region: R43,-0.16302878497207549
+poisson all,all,region: R52,-0.08108604046409598
+poisson all,all,region: R53,0.016745470481699068
+poisson all,all,region: R54,-0.11745030095644939
+poisson all,all,region: R72,-0.16435585651103274
+poisson all,all,region: R73,-0.20080886974178191
+poisson all,all,region: R74,0.10745181533576081
+poisson all,all,region: R82,-0.007139144446635748
+poisson all,all,region: R83,-0.38926762627121125
+poisson all,all,region: R91,-0.1370875290696846
+poisson all,all,region: R93,-0.09668457485236803
+poisson all,all,region: R94,0.031337920129947884
+poisson without driver age,0,intercept,-2.5363925076495977
+poisson without driver age,0,bonus-malus: 51-59,0.1736365453826034
+poisson without driver age,0,bonus-malus: 60-79,0.4509461107567265
+poisson without driver age,0,bonus-malus: 80-99,0.5734325822257954
+poisson without driver age,0,bonus-malus: 100+,1.3096949550576322
+poisson without driver age,0,vehicle age: 0,1.1571054857700158
+poisson without driver age,0,vehicle age: 6-10,0.053224299526861384
+poisson without driver age,0,vehicle age: 11-15,-0.1031686087872766
+poisson without driver age,0,vehicle age: 16+,-0.3540426501620775
+poisson without driver age,0,vehicle power: 4,-0.20761653660432064
+poisson without driver age,0,vehicle power: 5,-0.03516163182308377
+poisson without driver age,0,vehicle power: 7,-0.07196593961291722
+poisson without driver age,0,vehicle power: 8,-0.26806080740236804
+poisson without driver age,0,vehicle power: 9+,0.0025341008761995084
+poisson without driver age,0,density: log of inhabitants per km2,0.04023860615158073
+poisson without driver age,0,vehicle brand: B1,-0.1431213367797534
+poisson without driver age,0,vehicle brand: B10,-0.12638337113236253
+poisson without driver age,0,vehicle brand: B11,-0.08034036281829893
+poisson without driver age,0,vehicle brand: B13,-0.09758016889172572
+poisson without driver age,0,vehicle brand: B14,-0.2916761761111304
+poisson without driver age,0,vehicle brand: B2,-0.1476337999595746
+poisson without driver age,0,vehicle brand: B3,-0.15430988333496667
+poisson without driver age,0,vehicle brand: B4,-0.13959383074334442
+poisson without driver age,0,vehicle brand: B5,-0.05581860286882263
+poisson without driver age,0,vehicle brand: B6,-0.1548527639165027
+poisson without driver age,0,fuel: diesel,-0.09772943861706719
+poisson without driver age,0,region: R11,-0.14326519895528353
+poisson without driver age,0,region: R21,0.0030082629273693313
+poisson without driver age,0,region: R22,-0.048291346136235966
+poisson without driver age,0,region: R23,-0.21351530698978882
+poisson without driver age,0,region: R25,-0.03981652162162433
+poisson without driver age,0,region: R26,-0.09494749958481453
+poisson without driver age,0,region: R31,-0.22379297467679107
+poisson without driver age,0,region: R41,-0.3338471313530956
+poisson without driver age,0,region: R42,-0.07017852901766441
+poisson without driver age,0,region: R43,-0.1106434585374426
+poisson without driver age,0,region: R52,-0.06778190399257839
+poisson without driver age,0,region: R53,0.03900879785118577
+poisson without driver age,0,region: R54,-0.12826052113639436
+poisson without driver age,0,region: R72,-0.1584532342427686
+poisson without driver age,0,region: R73,-0.2227206732664599
+poisson without driver age,0,region: R74,0.06607160752237308
+poisson without driver age,0,region: R82,-0.008844124112717316
+poisson without driver age,0,region: R83,-0.3762034124691748
+poisson without driver age,0,region: R91,-0.12146191239224546
+poisson without driver age,0,region: R93,-0.07736017286459419
+poisson without driver age,0,region: R94,0.0290891836087909
+poisson without driver age,1,intercept,-2.579104186012793
+poisson without driver age,1,bonus-malus: 51-59,0.16998658066860123
+poisson without driver age,1,bonus-malus: 60-79,0.47331139398606065
+poisson without driver age,1,bonus-malus: 80-99,0.5836773663760906
+poisson without driver age,1,bonus-malus: 100+,1.317380369912013
+poisson without driver age,1,vehicle age: 0,1.1881617994293656
+poisson without driver age,1,vehicle age: 6-10,0.06988470143335676
+poisson without driver age,1,vehicle age: 11-15,-0.08723544834536892
+poisson without driver age,1,vehicle age: 16+,-0.3432563003516149
+poisson without driver age,1,vehicle power: 4,-0.1976506574235939
+poisson without driver age,1,vehicle power: 5,-0.006636729972174642
+poisson without driver age,1,vehicle power: 7,-0.07111401617640914
+poisson without driver age,1,vehicle power: 8,-0.2663665270065107
+poisson without driver age,1,vehicle power: 9+,0.004737306714138599
+poisson without driver age,1,density: log of inhabitants per km2,0.041581020573444066
+poisson without driver age,1,vehicle brand: B1,-0.13781410764070456
+poisson without driver age,1,vehicle brand: B10,-0.08834149984837418
+poisson without driver age,1,vehicle brand: B11,-0.047309509871776526
+poisson without driver age,1,vehicle brand: B13,-0.11899076042376307
+poisson without driver age,1,vehicle brand: B14,-0.30438794321998147
+poisson without driver age,1,vehicle brand: B2,-0.1407629391728402
+poisson without driver age,1,vehicle brand: B3,-0.1710799395266182
+poisson without driver age,1,vehicle brand: B4,-0.1737413343811973
+poisson without driver age,1,vehicle brand: B5,-0.07301475311184949
+poisson without driver age,1,vehicle brand: B6,-0.14978892547395545
+poisson without driver age,1,fuel: diesel,-0.09449420083011237
+poisson without driver age,1,region: R11,-0.13499955980999817
+poisson without driver age,1,region: R21,0.023075453947149962
+poisson without driver age,1,region: R22,-0.019270943112607367
+poisson without driver age,1,region: R23,-0.14272687634694506
+poisson without driver age,1,region: R25,-0.0764739609361499
+poisson without driver age,1,region: R26,-0.09803267036907067
+poisson without driver age,1,region: R31,-0.1831877389370639
+poisson without driver age,1,region: R41,-0.28471984080191914
+poisson without driver age,1,region: R42,-0.030424601173282596
+poisson without driver age,1,region: R43,-0.2333028228003518
+poisson without driver age,1,region: R52,-0.08593194339178037
+poisson without driver age,1,region: R53,0.03399318040349061
+poisson without driver age,1,region: R54,-0.12861289127989856
+poisson without driver age,1,region: R72,-0.15942628998390881
+poisson without driver age,1,region: R73,-0.23211176911988682
+poisson without driver age,1,region: R74,0.055674253187191755
+poisson without driver age,1,region: R82,0.012828595434574605
+poisson without driver age,1,region: R83,-0.46385256314206774
+poisson without driver age,1,region: R91,-0.1237056593349413
+poisson without driver age,1,region: R93,-0.0896011481881443
+poisson without driver age,1,region: R94,0.02248060294004125
+poisson without driver age,2,intercept,-2.552397861943265
+poisson without driver age,2,bonus-malus: 51-59,0.16882382123774928
+poisson without driver age,2,bonus-malus: 60-79,0.4690070113787443
+poisson without driver age,2,bonus-malus: 80-99,0.5894006165226736
+poisson without driver age,2,bonus-malus: 100+,1.319210681418831
+poisson without driver age,2,vehicle age: 0,1.1919587004584429
+poisson without driver age,2,vehicle age: 6-10,0.0563628776836094
+poisson without driver age,2,vehicle age: 11-15,-0.11712767455627963
+poisson without driver age,2,vehicle age: 16+,-0.353778221305676
+poisson without driver age,2,vehicle power: 4,-0.2408802556854001
+poisson without driver age,2,vehicle power: 5,-0.040601670994574596
+poisson without driver age,2,vehicle power: 7,-0.09203146054936963
+poisson without driver age,2,vehicle power: 8,-0.29318944573224365
+poisson without driver age,2,vehicle power: 9+,-0.0006750179340111902
+poisson without driver age,2,density: log of inhabitants per km2,0.04217470477725194
+poisson without driver age,2,vehicle brand: B1,-0.14202841883470602
+poisson without driver age,2,vehicle brand: B10,-0.09760701181876358
+poisson without driver age,2,vehicle brand: B11,-0.05687902607101656
+poisson without driver age,2,vehicle brand: B13,-0.07341813924666622
+poisson without driver age,2,vehicle brand: B14,-0.23627179968963563
+poisson without driver age,2,vehicle brand: B2,-0.13662414210815124
+poisson without driver age,2,vehicle brand: B3,-0.17075136924463705
+poisson without driver age,2,vehicle brand: B4,-0.16249843988719734
+poisson without driver age,2,vehicle brand: B5,-0.08581301568909133
+poisson without driver age,2,vehicle brand: B6,-0.1376129760534857
+poisson without driver age,2,fuel: diesel,-0.08923309887293328
+poisson without driver age,2,region: R11,-0.13736502509610793
+poisson without driver age,2,region: R21,-0.00031908899215770986
+poisson without driver age,2,region: R22,-0.029033241360814324
+poisson without driver age,2,region: R23,-0.180251673634866
+poisson without driver age,2,region: R25,-0.04305902160667729
+poisson without driver age,2,region: R26,-0.09027963387963472
+poisson without driver age,2,region: R31,-0.2152567793590657
+poisson without driver age,2,region: R41,-0.2988803058855995
+poisson without driver age,2,region: R42,-0.19148209104074268
+poisson without driver age,2,region: R43,-0.23718854443944948
+poisson without driver age,2,region: R52,-0.09419309925651256
+poisson without driver age,2,region: R53,0.0172806138250335
+poisson without driver age,2,region: R54,-0.11820366420642836
+poisson without driver age,2,region: R72,-0.17270217986484254
+poisson without driver age,2,region: R73,-0.22119847583405616
+poisson without driver age,2,region: R74,0.14697581275464427
+poisson without driver age,2,region: R82,0.00014117945156631782
+poisson without driver age,2,region: R83,-0.3730469342676544
+poisson without driver age,2,region: R91,-0.14694971155379338
+poisson without driver age,2,region: R93,-0.08028343405792973
+poisson without driver age,2,region: R94,0.07192221629220215
+poisson without driver age,3,intercept,-2.5896081791053676
+poisson without driver age,3,bonus-malus: 51-59,0.1586144483261229
+poisson without driver age,3,bonus-malus: 60-79,0.45361076984101034
+poisson without driver age,3,bonus-malus: 80-99,0.5819550442875902
+poisson without driver age,3,bonus-malus: 100+,1.326877836632488
+poisson without driver age,3,vehicle age: 0,1.1739567806127853
+poisson without driver age,3,vehicle age: 6-10,0.061949587963891106
+poisson without driver age,3,vehicle age: 11-15,-0.10177681791651656
+poisson without driver age,3,vehicle age: 16+,-0.3246270227419513
+poisson without driver age,3,vehicle power: 4,-0.21854156109000275
+poisson without driver age,3,vehicle power: 5,-0.020941840810555137
+poisson without driver age,3,vehicle power: 7,-0.07757348609784899
+poisson without driver age,3,vehicle power: 8,-0.2615843324683833
+poisson without driver age,3,vehicle power: 9+,0.007392118110278661
+poisson without driver age,3,density: log of inhabitants per km2,0.04644032810734524
+poisson without driver age,3,vehicle brand: B1,-0.1340491368554695
+poisson without driver age,3,vehicle brand: B10,-0.09335661934455078
+poisson without driver age,3,vehicle brand: B11,-0.09495190255958288
+poisson without driver age,3,vehicle brand: B13,-0.10960239578204803
+poisson without driver age,3,vehicle brand: B14,-0.25018006884797306
+poisson without driver age,3,vehicle brand: B2,-0.1307200409901337
+poisson without driver age,3,vehicle brand: B3,-0.15404406142438712
+poisson without driver age,3,vehicle brand: B4,-0.168382831596758
+poisson without driver age,3,vehicle brand: B5,-0.08004108468117474
+poisson without driver age,3,vehicle brand: B6,-0.15694120314807064
+poisson without driver age,3,fuel: diesel,-0.0806476399740912
+poisson without driver age,3,region: R11,-0.16059906152584918
+poisson without driver age,3,region: R21,-0.005843653765191909
+poisson without driver age,3,region: R22,0.008813645472797118
+poisson without driver age,3,region: R23,-0.11055076131330263
+poisson without driver age,3,region: R25,-0.0807816857601479
+poisson without driver age,3,region: R26,-0.059338153315988414
+poisson without driver age,3,region: R31,-0.23460956813015515
+poisson without driver age,3,region: R41,-0.3126014924234808
+poisson without driver age,3,region: R42,-0.14626126955191643
+poisson without driver age,3,region: R43,-0.24443736081343334
+poisson without driver age,3,region: R52,-0.09371573553547666
+poisson without driver age,3,region: R53,-0.005143636533553998
+poisson without driver age,3,region: R54,-0.10116146774690801
+poisson without driver age,3,region: R72,-0.1504470058767886
+poisson without driver age,3,region: R73,-0.19063588553725322
+poisson without driver age,3,region: R74,0.07077668873819873
+poisson without driver age,3,region: R82,-0.023866535094587634
+poisson without driver age,3,region: R83,-0.3597302247088088
+poisson without driver age,3,region: R91,-0.11013758270748085
+poisson without driver age,3,region: R93,-0.09609484367966818
+poisson without driver age,3,region: R94,0.021784123731390083
+poisson without driver age,4,intercept,-2.5509826868323953
+poisson without driver age,4,bonus-malus: 51-59,0.19174360703882376
+poisson without driver age,4,bonus-malus: 60-79,0.4760586044181697
+poisson without driver age,4,bonus-malus: 80-99,0.5856326343604714
+poisson without driver age,4,bonus-malus: 100+,1.3078585192443812
+poisson without driver age,4,vehicle age: 0,1.1636585411313307
+poisson without driver age,4,vehicle age: 6-10,0.04671152673390232
+poisson without driver age,4,vehicle age: 11-15,-0.10733121309718438
+poisson without driver age,4,vehicle age: 16+,-0.3788601552048498
+poisson without driver age,4,vehicle power: 4,-0.21226597881564785
+poisson without driver age,4,vehicle power: 5,-0.023067760829334635
+poisson without driver age,4,vehicle power: 7,-0.08544871728009591
+poisson without driver age,4,vehicle power: 8,-0.2607191688828356
+poisson without driver age,4,vehicle power: 9+,-0.004503619657310836
+poisson without driver age,4,density: log of inhabitants per km2,0.043936713510652856
+poisson without driver age,4,vehicle brand: B1,-0.14038751107710237
+poisson without driver age,4,vehicle brand: B10,-0.1411407173134829
+poisson without driver age,4,vehicle brand: B11,-0.07929698623391852
+poisson without driver age,4,vehicle brand: B13,-0.07433691477336435
+poisson without driver age,4,vehicle brand: B14,-0.3108084976823722
+poisson without driver age,4,vehicle brand: B2,-0.1356581218923547
+poisson without driver age,4,vehicle brand: B3,-0.1756241583237117
+poisson without driver age,4,vehicle brand: B4,-0.16963396534401404
+poisson without driver age,4,vehicle brand: B5,-0.08148170730450381
+poisson without driver age,4,vehicle brand: B6,-0.14816702780354163
+poisson without driver age,4,fuel: diesel,-0.0942107576802761
+poisson without driver age,4,region: R11,-0.14260858980417124
+poisson without driver age,4,region: R21,0.03165029625354977
+poisson without driver age,4,region: R22,-0.09983555435974838
+poisson without driver age,4,region: R23,-0.19453145443764192
+poisson without driver age,4,region: R25,-0.043596064016240436
+poisson without driver age,4,region: R26,-0.048534490226734506
+poisson without driver age,4,region: R31,-0.2530453317876105
+poisson without driver age,4,region: R41,-0.2937630015309613
+poisson without driver age,4,region: R42,-0.14467613848764246
+poisson without driver age,4,region: R43,-0.151502791432546
+poisson without driver age,4,region: R52,-0.09136152456666329
+poisson without driver age,4,region: R53,0.00455805805503441
+poisson without driver age,4,region: R54,-0.10954722268537172
+poisson without driver age,4,region: R72,-0.197026973888917
+poisson without driver age,4,region: R73,-0.196520749115732
+poisson without driver age,4,region: R74,0.16392650430725375
+poisson without driver age,4,region: R82,-0.02081238777850694
+poisson without driver age,4,region: R83,-0.3793976413875605
+poisson without driver age,4,region: R91,-0.12712719266629824
+poisson without driver age,4,region: R93,-0.09316277568952966
+poisson without driver age,4,region: R94,0.03981272045695148
+poisson without driver age,all,intercept,-2.5617007569382078
+poisson without driver age,all,bonus-malus: 51-59,0.17266522074400031
+poisson without driver age,all,bonus-malus: 60-79,0.4646326947042387
+poisson without driver age,all,bonus-malus: 80-99,0.5828073391045601
+poisson without driver age,all,bonus-malus: 100+,1.3163008475410096
+poisson without driver age,all,vehicle age: 0,1.1750065105301164
+poisson without driver age,all,vehicle age: 6-10,0.05762911143422655
+poisson without driver age,all,vehicle age: 11-15,-0.10328673884315197
+poisson without driver age,all,vehicle age: 16+,-0.35086372079656253
+poisson without driver age,all,vehicle power: 4,-0.21537334711118672
+poisson without driver age,all,vehicle power: 5,-0.025227981046255687
+poisson without driver age,all,vehicle power: 7,-0.07960333169476011
+poisson without driver age,all,vehicle power: 8,-0.2698709741954451
+poisson without driver age,all,vehicle power: 9+,0.0018528757315595015
+poisson without driver age,all,density: log of inhabitants per km2,0.04288716012619422
+poisson without driver age,all,vehicle brand: B1,-0.1395276390593825
+poisson without driver age,all,vehicle brand: B10,-0.10923337120869274
+poisson without driver age,all,vehicle brand: B11,-0.07163010478788749
+poisson without driver age,all,vehicle brand: B13,-0.09465379343273467
+poisson without driver age,all,vehicle brand: B14,-0.27836281785809325
+poisson without driver age,all,vehicle brand: B2,-0.13829542415268012
+poisson without driver age,all,vehicle brand: B3,-0.16518423500645144
+poisson without driver age,all,vehicle brand: B4,-0.16275441468124127
+poisson without driver age,all,vehicle brand: B5,-0.07518797907811646
+poisson without driver age,all,vehicle brand: B6,-0.14951010342147217
+poisson without driver age,all,fuel: diesel,-0.09124814500168538
+poisson without driver age,all,region: R11,-0.1437757692393622
+poisson without driver age,all,region: R21,0.010534356578622797
+poisson without driver age,all,region: R22,-0.03713221187478348
+poisson without driver age,all,region: R23,-0.16775397842027234
+poisson without driver age,all,region: R25,-0.05661270114823536
+poisson without driver age,all,region: R26,-0.07781262661803298
+poisson without driver age,all,region: R31,-0.2218324047360912
+poisson without driver age,all,region: R41,-0.3046438125406967
+poisson without driver age,all,region: R42,-0.11470847567821828
+poisson without driver age,all,region: R43,-0.19370006911015308
+poisson without driver age,all,region: R52,-0.08658006088235116
+poisson without driver age,all,region: R53,0.018002330931185216
+poisson without driver age,all,region: R54,-0.11702067043162778
+poisson without driver age,all,region: R72,-0.16753571736836714
+poisson without driver age,all,region: R73,-0.21259323823711596
+poisson without driver age,all,region: R74,0.10187177880814496
+poisson without driver age,all,region: R82,-0.008158188234215524
+poisson without driver age,all,region: R83,-0.3898271653835906
+poisson without driver age,all,region: R91,-0.1258593655202077
+poisson without driver age,all,region: R93,-0.08734239735362431
+poisson without driver age,all,region: R94,0.03703561228091479
+poisson without bonus-malus,0,intercept,-2.4109849015007065
+poisson without bonus-malus,0,driver age: 18-20,0.9942291316775445
+poisson without bonus-malus,0,driver age: 21-25,0.42667947779980764
+poisson without bonus-malus,0,driver age: 26-30,-0.0007805816234307251
+poisson without bonus-malus,0,driver age: 31-40,-0.14843167393444942
+poisson without bonus-malus,0,driver age: 51-70,-0.108624704596361
+poisson without bonus-malus,0,driver age: 71+,-0.0659589557902743
+poisson without bonus-malus,0,vehicle age: 0,1.1666441611617575
+poisson without bonus-malus,0,vehicle age: 6-10,0.08723880041825155
+poisson without bonus-malus,0,vehicle age: 11-15,-0.04745925907269296
+poisson without bonus-malus,0,vehicle age: 16+,-0.2997826001030167
+poisson without bonus-malus,0,vehicle power: 4,-0.19733869602915136
+poisson without bonus-malus,0,vehicle power: 5,-0.0296006997541038
+poisson without bonus-malus,0,vehicle power: 7,-0.08063988993471333
+poisson without bonus-malus,0,vehicle power: 8,-0.3006399629666112
+poisson without bonus-malus,0,vehicle power: 9+,-0.033626759657665775
+poisson without bonus-malus,0,density: log of inhabitants per km2,0.06022619289296009
+poisson without bonus-malus,0,vehicle brand: B1,-0.1865676192010993
+poisson without bonus-malus,0,vehicle brand: B10,-0.17426699217351688
+poisson without bonus-malus,0,vehicle brand: B11,-0.10730099824764976
+poisson without bonus-malus,0,vehicle brand: B13,-0.1307762720677533
+poisson without bonus-malus,0,vehicle brand: B14,-0.34665237426357787
+poisson without bonus-malus,0,vehicle brand: B2,-0.19558531030102907
+poisson without bonus-malus,0,vehicle brand: B3,-0.17016871886835566
+poisson without bonus-malus,0,vehicle brand: B4,-0.1651803089605114
+poisson without bonus-malus,0,vehicle brand: B5,-0.07518435211234348
+poisson without bonus-malus,0,vehicle brand: B6,-0.18260585001014285
+poisson without bonus-malus,0,fuel: diesel,-0.08273296274564358
+poisson without bonus-malus,0,region: R11,-0.07231072175431433
+poisson without bonus-malus,0,region: R21,0.06632349836236916
+poisson without bonus-malus,0,region: R22,0.03773405422078118
+poisson without bonus-malus,0,region: R23,-0.1726568491974722
+poisson without bonus-malus,0,region: R25,-0.049690797681194505
+poisson without bonus-malus,0,region: R26,-0.04407813764669295
+poisson without bonus-malus,0,region: R31,-0.15234745167267383
+poisson without bonus-malus,0,region: R41,-0.3877697031132496
+poisson without bonus-malus,0,region: R42,-0.027635668151679477
+poisson without bonus-malus,0,region: R43,-0.05983739149221246
+poisson without bonus-malus,0,region: R52,-0.06401942849565881
+poisson without bonus-malus,0,region: R53,0.020632092997352972
+poisson without bonus-malus,0,region: R54,-0.10615471266345348
+poisson without bonus-malus,0,region: R72,-0.13702046586813924
+poisson without bonus-malus,0,region: R73,-0.1847711054193496
+poisson without bonus-malus,0,region: R74,0.0787905579122327
+poisson without bonus-malus,0,region: R82,0.019072647991670535
+poisson without bonus-malus,0,region: R83,-0.3452016165878289
+poisson without bonus-malus,0,region: R91,-0.08512126210162914
+poisson without bonus-malus,0,region: R93,-0.06888640744715799
+poisson without bonus-malus,0,region: R94,0.12278123666758772
+poisson without bonus-malus,1,intercept,-2.4636808511667723
+poisson without bonus-malus,1,driver age: 18-20,0.9738449810896266
+poisson without bonus-malus,1,driver age: 21-25,0.44967589849662737
+poisson without bonus-malus,1,driver age: 26-30,0.024098414048917095
+poisson without bonus-malus,1,driver age: 31-40,-0.1495513486396757
+poisson without bonus-malus,1,driver age: 51-70,-0.09057998111469576
+poisson without bonus-malus,1,driver age: 71+,-0.05121976708112076
+poisson without bonus-malus,1,vehicle age: 0,1.2019090563187298
+poisson without bonus-malus,1,vehicle age: 6-10,0.10489010969015765
+poisson without bonus-malus,1,vehicle age: 11-15,-0.029601371828008146
+poisson without bonus-malus,1,vehicle age: 16+,-0.28531095417300556
+poisson without bonus-malus,1,vehicle power: 4,-0.18526043397741498
+poisson without bonus-malus,1,vehicle power: 5,0.0013654135812411995
+poisson without bonus-malus,1,vehicle power: 7,-0.08054360440598743
+poisson without bonus-malus,1,vehicle power: 8,-0.30047603628898806
+poisson without bonus-malus,1,vehicle power: 9+,-0.03279484997011739
+poisson without bonus-malus,1,density: log of inhabitants per km2,0.06218904806102198
+poisson without bonus-malus,1,vehicle brand: B1,-0.1838067444130564
+poisson without bonus-malus,1,vehicle brand: B10,-0.13653201495496747
+poisson without bonus-malus,1,vehicle brand: B11,-0.0726544562683894
+poisson without bonus-malus,1,vehicle brand: B13,-0.15328196485057297
+poisson without bonus-malus,1,vehicle brand: B14,-0.35438229687788725
+poisson without bonus-malus,1,vehicle brand: B2,-0.1909242655657193
+poisson without bonus-malus,1,vehicle brand: B3,-0.18794221036165412
+poisson without bonus-malus,1,vehicle brand: B4,-0.19811283750347702
+poisson without bonus-malus,1,vehicle brand: B5,-0.09501266987485586
+poisson without bonus-malus,1,vehicle brand: B6,-0.18086910524928299
+poisson without bonus-malus,1,fuel: diesel,-0.07691526060074616
+poisson without bonus-malus,1,region: R11,-0.05866341376016381
+poisson without bonus-malus,1,region: R21,0.08992516578766022
+poisson without bonus-malus,1,region: R22,0.07098417044789433
+poisson without bonus-malus,1,region: R23,-0.0992406370217356
+poisson without bonus-malus,1,region: R25,-0.08375377088788245
+poisson without bonus-malus,1,region: R26,-0.05045823287479473
+poisson without bonus-malus,1,region: R31,-0.10516388373290518
+poisson without bonus-malus,1,region: R41,-0.33792610340100376
+poisson without bonus-malus,1,region: R42,0.022184874955518432
+poisson without bonus-malus,1,region: R43,-0.17685314470746527
+poisson without bonus-malus,1,region: R52,-0.0814435479888227
+poisson without bonus-malus,1,region: R53,0.017708682314306157
+poisson without bonus-malus,1,region: R54,-0.10605469190755484
+poisson without bonus-malus,1,region: R72,-0.14101853603968148
+poisson without bonus-malus,1,region: R73,-0.1954635892126225
+poisson without bonus-malus,1,region: R74,0.07231413949431528
+poisson without bonus-malus,1,region: R82,0.04167667117359814
+poisson without bonus-malus,1,region: R83,-0.43169119296407393
+poisson without bonus-malus,1,region: R91,-0.08898639137031747
+poisson without bonus-malus,1,region: R93,-0.07847826247656829
+poisson without bonus-malus,1,region: R94,0.11954987558518487
+poisson without bonus-malus,2,intercept,-2.42294418910102
+poisson without bonus-malus,2,driver age: 18-20,0.9502914459615653
+poisson without bonus-malus,2,driver age: 21-25,0.42406311218097853
+poisson without bonus-malus,2,driver age: 26-30,-0.012233364046361113
+poisson without bonus-malus,2,driver age: 31-40,-0.15216669352429626
+poisson without bonus-malus,2,driver age: 51-70,-0.11971870881990423
+poisson without bonus-malus,2,driver age: 71+,-0.05109954499044881
+poisson without bonus-malus,2,vehicle age: 0,1.2020219773677228
+poisson without bonus-malus,2,vehicle age: 6-10,0.09271633838738577
+poisson without bonus-malus,2,vehicle age: 11-15,-0.05934113110602367
+poisson without bonus-malus,2,vehicle age: 16+,-0.295853469012044
+poisson without bonus-malus,2,vehicle power: 4,-0.2276334768510836
+poisson without bonus-malus,2,vehicle power: 5,-0.03396105038657658
+poisson without bonus-malus,2,vehicle power: 7,-0.10167805053632918
+poisson without bonus-malus,2,vehicle power: 8,-0.32648461126273515
+poisson without bonus-malus,2,vehicle power: 9+,-0.03889967466072019
+poisson without bonus-malus,2,density: log of inhabitants per km2,0.06319219267406731
+poisson without bonus-malus,2,vehicle brand: B1,-0.18897170979923206
+poisson without bonus-malus,2,vehicle brand: B10,-0.14977882524811648
+poisson without bonus-malus,2,vehicle brand: B11,-0.08778843081664574
+poisson without bonus-malus,2,vehicle brand: B13,-0.10684817507733992
+poisson without bonus-malus,2,vehicle brand: B14,-0.2907612932939306
+poisson without bonus-malus,2,vehicle brand: B2,-0.18787882872242864
+poisson without bonus-malus,2,vehicle brand: B3,-0.1872977774737093
+poisson without bonus-malus,2,vehicle brand: B4,-0.18830456363733633
+poisson without bonus-malus,2,vehicle brand: B5,-0.1113385423962572
+poisson without bonus-malus,2,vehicle brand: B6,-0.17128829988766045
+poisson without bonus-malus,2,fuel: diesel,-0.07146410625122337
+poisson without bonus-malus,2,region: R11,-0.0631752285622912
+poisson without bonus-malus,2,region: R21,0.06840131552730948
+poisson without bonus-malus,2,region: R22,0.0581828347400948
+poisson without bonus-malus,2,region: R23,-0.13613994667994192
+poisson without bonus-malus,2,region: R25,-0.05189267938309932
+poisson without bonus-malus,2,region: R26,-0.036478258433556135
+poisson without bonus-malus,2,region: R31,-0.13828221750813943
+poisson without bonus-malus,2,region: R41,-0.35489815514501316
+poisson without bonus-malus,2,region: R42,-0.15793366627393143
+poisson without bonus-malus,2,region: R43,-0.17456889343400167
+poisson without bonus-malus,2,region: R52,-0.08982166724402031
+poisson without bonus-malus,2,region: R53,-0.0029313687264608222
+poisson without bonus-malus,2,region: R54,-0.09674485544085448
+poisson without bonus-malus,2,region: R72,-0.155791746608659
+poisson without bonus-malus,2,region: R73,-0.18270199471157056
+poisson without bonus-malus,2,region: R74,0.16212030329337168
+poisson without bonus-malus,2,region: R82,0.02889431825267872
+poisson without bonus-malus,2,region: R83,-0.337320668379293
+poisson without bonus-malus,2,region: R91,-0.11057530317327569
+poisson without bonus-malus,2,region: R93,-0.0708554328977651
+poisson without bonus-malus,2,region: R94,0.16626699177565404
+poisson without bonus-malus,3,intercept,-2.4696296857029556
+poisson without bonus-malus,3,driver age: 18-20,0.9701027078474393
+poisson without bonus-malus,3,driver age: 21-25,0.43662433460157957
+poisson without bonus-malus,3,driver age: 26-30,0.007577959470016346
+poisson without bonus-malus,3,driver age: 31-40,-0.15562075170116518
+poisson without bonus-malus,3,driver age: 51-70,-0.10765984755711674
+poisson without bonus-malus,3,driver age: 71+,-0.03738110380227307
+poisson without bonus-malus,3,vehicle age: 0,1.1857767394458374
+poisson without bonus-malus,3,vehicle age: 6-10,0.09896462556316646
+poisson without bonus-malus,3,vehicle age: 11-15,-0.042108923740154194
+poisson without bonus-malus,3,vehicle age: 16+,-0.2655396812748603
+poisson without bonus-malus,3,vehicle power: 4,-0.20555161458984073
+poisson without bonus-malus,3,vehicle power: 5,-0.012958711278518718
+poisson without bonus-malus,3,vehicle power: 7,-0.08648377361411623
+poisson without bonus-malus,3,vehicle power: 8,-0.2944990577430064
+poisson without bonus-malus,3,vehicle power: 9+,-0.029838542662103743
+poisson without bonus-malus,3,density: log of inhabitants per km2,0.06688562049268146
+poisson without bonus-malus,3,vehicle brand: B1,-0.18106061271492369
+poisson without bonus-malus,3,vehicle brand: B10,-0.14181630376214896
+poisson without bonus-malus,3,vehicle brand: B11,-0.12120912531222633
+poisson without bonus-malus,3,vehicle brand: B13,-0.14730597628678077
+poisson without bonus-malus,3,vehicle brand: B14,-0.3072720507054048
+poisson without bonus-malus,3,vehicle brand: B2,-0.18270783355622522
+poisson without bonus-malus,3,vehicle brand: B3,-0.17289806755244239
+poisson without bonus-malus,3,vehicle brand: B4,-0.19461960674006376
+poisson without bonus-malus,3,vehicle brand: B5,-0.1026193766565291
+poisson without bonus-malus,3,vehicle brand: B6,-0.18896669104877653
+poisson without bonus-malus,3,fuel: diesel,-0.06242881325850444
+poisson without bonus-malus,3,region: R11,-0.08424951508968109
+poisson without bonus-malus,3,region: R21,0.07171415488914212
+poisson without bonus-malus,3,region: R22,0.09040397352819486
+poisson without bonus-malus,3,region: R23,-0.06914047290350857
+poisson without bonus-malus,3,region: R25,-0.0876162510242924
+poisson without bonus-malus,3,region: R26,-0.0035879997134454183
+poisson without bonus-malus,3,region: R31,-0.15962481935539802
+poisson without bonus-malus,3,region: R41,-0.36808396889093686
+poisson without bonus-malus,3,region: R42,-0.1065992758057505
+poisson without bonus-malus,3,region: R43,-0.19168920076786924
+poisson without bonus-malus,3,region: R52,-0.08537600297702343
+poisson without bonus-malus,3,region: R53,-0.021473419845854276
+poisson without bonus-malus,3,region: R54,-0.07827984225074978
+poisson without bonus-malus,3,region: R72,-0.13388606243229143
+poisson without bonus-malus,3,region: R73,-0.15874370118557107
+poisson without bonus-malus,3,region: R74,0.08694361854107562
+poisson without bonus-malus,3,region: R82,0.004732771817813108
+poisson without bonus-malus,3,region: R83,-0.33259280200671465
+poisson without bonus-malus,3,region: R91,-0.07212723016495401
+poisson without bonus-malus,3,region: R93,-0.088346895171198
+poisson without bonus-malus,3,region: R94,0.11353475156829444
+poisson without bonus-malus,4,intercept,-2.426601841814335
+poisson without bonus-malus,4,driver age: 18-20,0.9450438752085114
+poisson without bonus-malus,4,driver age: 21-25,0.44981207684102564
+poisson without bonus-malus,4,driver age: 26-30,0.0146541750554438
+poisson without bonus-malus,4,driver age: 31-40,-0.1402313579045629
+poisson without bonus-malus,4,driver age: 51-70,-0.10299258628680429
+poisson without bonus-malus,4,driver age: 71+,-0.05380782749259489
+poisson without bonus-malus,4,vehicle age: 0,1.1742717454806328
+poisson without bonus-malus,4,vehicle age: 6-10,0.08204695234422471
+poisson without bonus-malus,4,vehicle age: 11-15,-0.05039546888364918
+poisson without bonus-malus,4,vehicle age: 16+,-0.3225968748085746
+poisson without bonus-malus,4,vehicle power: 4,-0.20021970389070173
+poisson without bonus-malus,4,vehicle power: 5,-0.017365169020457195
+poisson without bonus-malus,4,vehicle power: 7,-0.0944077647850909
+poisson without bonus-malus,4,vehicle power: 8,-0.29261797120067834
+poisson without bonus-malus,4,vehicle power: 9+,-0.04317402282225219
+poisson without bonus-malus,4,density: log of inhabitants per km2,0.06405308420538836
+poisson without bonus-malus,4,vehicle brand: B1,-0.18532753300544536
+poisson without bonus-malus,4,vehicle brand: B10,-0.18998558015135295
+poisson without bonus-malus,4,vehicle brand: B11,-0.10814551575154115
+poisson without bonus-malus,4,vehicle brand: B13,-0.10680712125124464
+poisson without bonus-malus,4,vehicle brand: B14,-0.36815524737004285
+poisson without bonus-malus,4,vehicle brand: B2,-0.1852704020670046
+poisson without bonus-malus,4,vehicle brand: B3,-0.1916424512329986
+poisson without bonus-malus,4,vehicle brand: B4,-0.1959904837507509
+poisson without bonus-malus,4,vehicle brand: B5,-0.10484908004020514
+poisson without bonus-malus,4,vehicle brand: B6,-0.178648134447465
+poisson without bonus-malus,4,fuel: diesel,-0.07699842524763997
+poisson without bonus-malus,4,region: R11,-0.06602753701041848
+poisson without bonus-malus,4,region: R21,0.10723650357594443
+poisson without bonus-malus,4,region: R22,-0.01568915426273718
+poisson without bonus-malus,4,region: R23,-0.1543152965215429
+poisson without bonus-malus,4,region: R25,-0.04719820772750784
+poisson without bonus-malus,4,region: R26,0.008893593688746752
+poisson without bonus-malus,4,region: R31,-0.17892905819480937
+poisson without bonus-malus,4,region: R41,-0.3449011830397385
+poisson without bonus-malus,4,region: R42,-0.0986058966225825
+poisson without bonus-malus,4,region: R43,-0.08019084464514632
+poisson without bonus-malus,4,region: R52,-0.08518467427602519
+poisson without bonus-malus,4,region: R53,-0.01254159230280277
+poisson without bonus-malus,4,region: R54,-0.08486651405046815
+poisson without bonus-malus,4,region: R72,-0.17629829477156844
+poisson without bonus-malus,4,region: R73,-0.16136552702845813
+poisson without bonus-malus,4,region: R74,0.18360399572762795
+poisson without bonus-malus,4,region: R82,0.009850504547637981
+poisson without bonus-malus,4,region: R83,-0.34833081968018115
+poisson without bonus-malus,4,region: R91,-0.08845213688374312
+poisson without bonus-malus,4,region: R93,-0.0795625368669391
+poisson without bonus-malus,4,region: R94,0.1400171146047128
+poisson without bonus-malus,all,intercept,-2.4387415154073575
+poisson without bonus-malus,all,driver age: 18-20,0.9668744790031113
+poisson without bonus-malus,all,driver age: 21-25,0.4374574294857822
+poisson without bonus-malus,all,driver age: 26-30,0.00671443798947001
+poisson without bonus-malus,all,driver age: 31-40,-0.1491290218013704
+poisson without bonus-malus,all,driver age: 51-70,-0.10588577228250654
+poisson without bonus-malus,all,driver age: 71+,-0.051879629289692086
+poisson without bonus-malus,all,vehicle age: 0,1.186158368349355
+poisson without bonus-malus,all,vehicle age: 6-10,0.09316660831519992
+poisson without bonus-malus,all,vehicle age: 11-15,-0.04576043605386889
+poisson without bonus-malus,all,vehicle age: 16+,-0.29376584319098287
+poisson without bonus-malus,all,vehicle power: 4,-0.20320732071807993
+poisson without bonus-malus,all,vehicle power: 5,-0.0184751616777451
+poisson without bonus-malus,all,vehicle power: 7,-0.08873866415219907
+poisson without bonus-malus,all,vehicle power: 8,-0.30284163276227005
+poisson without bonus-malus,all,vehicle power: 9+,-0.03570752921035451
+poisson without bonus-malus,all,density: log of inhabitants per km2,0.06331702140005384
+poisson without bonus-malus,all,vehicle brand: B1,-0.18519165259759274
+poisson without bonus-malus,all,vehicle brand: B10,-0.15835568108735845
+poisson without bonus-malus,all,vehicle brand: B11,-0.0992956068728372
+poisson without bonus-malus,all,vehicle brand: B13,-0.12890559084059064
+poisson without bonus-malus,all,vehicle brand: B14,-0.33317333853509534
+poisson without bonus-malus,all,vehicle brand: B2,-0.1884602725732448
+poisson without bonus-malus,all,vehicle brand: B3,-0.18200326919253187
+poisson without bonus-malus,all,vehicle brand: B4,-0.18841063680170048
+poisson without bonus-malus,all,vehicle brand: B5,-0.09771869102077982
+poisson without bonus-malus,all,vehicle brand: B6,-0.18046753501794327
+poisson without bonus-malus,all,fuel: diesel,-0.07411213236548715
+poisson without bonus-malus,all,region: R11,-0.06886107695996113
+poisson without bonus-malus,all,region: R21,0.08091294989114818
+poisson without bonus-malus,all,region: R22,0.04869883839918152
+poisson without bonus-malus,all,region: R23,-0.1257988901907934
+poisson without bonus-malus,all,region: R25,-0.06388785005074725
+poisson without bonus-malus,all,region: R26,-0.024724287136333376
+poisson without bonus-malus,all,region: R31,-0.1467140322827874
+poisson without bonus-malus,all,region: R41,-0.35859567691639876
+poisson without bonus-malus,all,region: R42,-0.07170366697040674
+poisson without bonus-malus,all,region: R43,-0.13468041608840112
+poisson without bonus-malus,all,region: R52,-0.08117678970026827
+poisson without bonus-malus,all,region: R53,0.0003485079352146101
+poisson without bonus-malus,all,region: R54,-0.0943049043655189
+poisson without bonus-malus,all,region: R72,-0.14867011390553397
+poisson without bonus-malus,all,region: R73,-0.17653317236413266
+poisson without bonus-malus,all,region: R74,0.11789877862764976
+poisson without bonus-malus,all,region: R82,0.02081224876021551
+poisson without bonus-malus,all,region: R83,-0.35845252170668007
+poisson without bonus-malus,all,region: R91,-0.0890005442063005
+poisson without bonus-malus,all,region: R93,-0.07725802641506077
+poisson without bonus-malus,all,region: R94,0.13258151479720065
+poisson without vehicle age,0,intercept,-2.2980602303665316
+poisson without vehicle age,0,driver age: 18-20,0.10928207181753952
+poisson without vehicle age,0,driver age: 21-25,-0.23767563807867242
+poisson without vehicle age,0,driver age: 26-30,-0.45932294350073316
+poisson without vehicle age,0,driver age: 31-40,-0.33546153549753954
+poisson without vehicle age,0,driver age: 51-70,-0.05077360193094678
+poisson without vehicle age,0,driver age: 71+,0.02781166589239454
+poisson without vehicle age,0,bonus-malus: 51-59,0.28557036767361094
+poisson without vehicle age,0,bonus-malus: 60-79,0.6062635089153753
+poisson without vehicle age,0,bonus-malus: 80-99,0.7112001475122521
+poisson without vehicle age,0,bonus-malus: 100+,1.4389557117135006
+poisson without vehicle age,0,vehicle power: 4,-0.16907333267905195
+poisson without vehicle age,0,vehicle power: 5,0.0027714143057844666
+poisson without vehicle age,0,vehicle power: 7,-0.05725995097585721
+poisson without vehicle age,0,vehicle power: 8,-0.25624538128611923
+poisson without vehicle age,0,vehicle power: 9+,0.0008082940837648732
+poisson without vehicle age,0,density: log of inhabitants per km2,0.04316206932581148
+poisson without vehicle age,0,vehicle brand: B1,-0.40144437377117503
+poisson without vehicle age,0,vehicle brand: B10,-0.3829214804438353
+poisson without vehicle age,0,vehicle brand: B11,-0.2653616587253327
+poisson without vehicle age,0,vehicle brand: B13,-0.32852498163258415
+poisson without vehicle age,0,vehicle brand: B14,-0.5606739672869293
+poisson without vehicle age,0,vehicle brand: B2,-0.40256750460124074
+poisson without vehicle age,0,vehicle brand: B3,-0.3547596887924707
+poisson without vehicle age,0,vehicle brand: B4,-0.3484501416434179
+poisson without vehicle age,0,vehicle brand: B5,-0.310735123701994
+poisson without vehicle age,0,vehicle brand: B6,-0.3746970989707427
+poisson without vehicle age,0,fuel: diesel,-0.01857753952625325
+poisson without vehicle age,0,region: R11,-0.06642829452290797
+poisson without vehicle age,0,region: R21,0.08999881776501419
+poisson without vehicle age,0,region: R22,0.026378413920473916
+poisson without vehicle age,0,region: R23,-0.16167985764173343
+poisson without vehicle age,0,region: R25,-0.01912705976012276
+poisson without vehicle age,0,region: R26,-0.037042377492259776
+poisson without vehicle age,0,region: R31,-0.1442924724116216
+poisson without vehicle age,0,region: R41,-0.3083817262999959
+poisson without vehicle age,0,region: R42,-0.004264607342121928
+poisson without vehicle age,0,region: R43,-0.054757463658722465
+poisson without vehicle age,0,region: R52,-0.06182083724031952
+poisson without vehicle age,0,region: R53,0.060974684375322004
+poisson without vehicle age,0,region: R54,-0.1299249715719746
+poisson without vehicle age,0,region: R72,-0.11835021515254274
+poisson without vehicle age,0,region: R73,-0.16532130262390823
+poisson without vehicle age,0,region: R74,0.07255242755913156
+poisson without vehicle age,0,region: R82,0.018994315609399803
+poisson without vehicle age,0,region: R83,-0.2954878782334654
+poisson without vehicle age,0,region: R91,-0.08060643269676676
+poisson without vehicle age,0,region: R93,-0.0312888678261547
+poisson without vehicle age,0,region: R94,0.08936056930076966
+poisson without vehicle age,1,intercept,-2.3381301080281705
+poisson without vehicle age,1,driver age: 18-20,0.07474266570603641
+poisson without vehicle age,1,driver age: 21-25,-0.235180512012803
+poisson without vehicle age,1,driver age: 26-30,-0.4479986592655221
+poisson without vehicle age,1,driver age: 31-40,-0.34292759796224703
+poisson without vehicle age,1,driver age: 51-70,-0.028856203767887695
+poisson without vehicle age,1,driver age: 71+,0.04611009489496536
+poisson without vehicle age,1,bonus-malus: 51-59,0.2894941102286722
+poisson without vehicle age,1,bonus-malus: 60-79,0.6365824983707564
+poisson without vehicle age,1,bonus-malus: 80-99,0.7291376320196029
+poisson without vehicle age,1,bonus-malus: 100+,1.4675815814974662
+poisson without vehicle age,1,vehicle power: 4,-0.1632774153042383
+poisson without vehicle age,1,vehicle power: 5,0.031321167538434426
+poisson without vehicle age,1,vehicle power: 7,-0.05937699136881247
+poisson without vehicle age,1,vehicle power: 8,-0.2510038254545697
+poisson without vehicle age,1,vehicle power: 9+,0.0016599786534866187
+poisson without vehicle age,1,density: log of inhabitants per km2,0.044212190027261324
+poisson without vehicle age,1,vehicle brand: B1,-0.39711324617335164
+poisson without vehicle age,1,vehicle brand: B10,-0.3469997618828017
+poisson without vehicle age,1,vehicle brand: B11,-0.22606915703363262
+poisson without vehicle age,1,vehicle brand: B13,-0.34859072480276665
+poisson without vehicle age,1,vehicle brand: B14,-0.5746015540269314
+poisson without vehicle age,1,vehicle brand: B2,-0.39578006273642014
+poisson without vehicle age,1,vehicle brand: B3,-0.372196285404085
+poisson without vehicle age,1,vehicle brand: B4,-0.381289176445757
+poisson without vehicle age,1,vehicle brand: B5,-0.3274422390293481
+poisson without vehicle age,1,vehicle brand: B6,-0.36942704586575204
+poisson without vehicle age,1,fuel: diesel,-0.014559306719133492
+poisson without vehicle age,1,region: R11,-0.052505666822064
+poisson without vehicle age,1,region: R21,0.10905774069787842
+poisson without vehicle age,1,region: R22,0.0534018534995246
+poisson without vehicle age,1,region: R23,-0.08687276844774257
+poisson without vehicle age,1,region: R25,-0.05716985603485165
+poisson without vehicle age,1,region: R26,-0.05200711639883464
+poisson without vehicle age,1,region: R31,-0.09731135580013978
+poisson without vehicle age,1,region: R41,-0.255705616264594
+poisson without vehicle age,1,region: R42,0.054246105755810084
+poisson without vehicle age,1,region: R43,-0.1509599342441587
+poisson without vehicle age,1,region: R52,-0.08178223217251138
+poisson without vehicle age,1,region: R53,0.057613134778150624
+poisson without vehicle age,1,region: R54,-0.12928086346873519
+poisson without vehicle age,1,region: R72,-0.12031083187497248
+poisson without vehicle age,1,region: R73,-0.16201570712607657
+poisson without vehicle age,1,region: R74,0.06217495385739247
+poisson without vehicle age,1,region: R82,0.0411361495723476
+poisson without vehicle age,1,region: R83,-0.38821741980248853
+poisson without vehicle age,1,region: R91,-0.08463529683412076
+poisson without vehicle age,1,region: R93,-0.04298812608754485
+poisson without vehicle age,1,region: R94,0.09050499514187839
+poisson without vehicle age,2,intercept,-2.304178120536351
+poisson without vehicle age,2,driver age: 18-20,0.0383635919032513
+poisson without vehicle age,2,driver age: 21-25,-0.25839526498081755
+poisson without vehicle age,2,driver age: 26-30,-0.4878455747292337
+poisson without vehicle age,2,driver age: 31-40,-0.3456126099010406
+poisson without vehicle age,2,driver age: 51-70,-0.059323250991130984
+poisson without vehicle age,2,driver age: 71+,0.04536593739656169
+poisson without vehicle age,2,bonus-malus: 51-59,0.2836549247384353
+poisson without vehicle age,2,bonus-malus: 60-79,0.6321093270088491
+poisson without vehicle age,2,bonus-malus: 80-99,0.73724887742997
+poisson without vehicle age,2,bonus-malus: 100+,1.466309448505807
+poisson without vehicle age,2,vehicle power: 4,-0.20332427843509876
+poisson without vehicle age,2,vehicle power: 5,0.000621068158375638
+poisson without vehicle age,2,vehicle power: 7,-0.07811729506413437
+poisson without vehicle age,2,vehicle power: 8,-0.27781846220074524
+poisson without vehicle age,2,vehicle power: 9+,-0.005662131199919564
+poisson without vehicle age,2,density: log of inhabitants per km2,0.045660211126850384
+poisson without vehicle age,2,vehicle brand: B1,-0.4128015147438629
+poisson without vehicle age,2,vehicle brand: B10,-0.36897733420658274
+poisson without vehicle age,2,vehicle brand: B11,-0.2493730270591514
+poisson without vehicle age,2,vehicle brand: B13,-0.3152091876779674
+poisson without vehicle age,2,vehicle brand: B14,-0.5299414033341708
+poisson without vehicle age,2,vehicle brand: B2,-0.4031374267493988
+poisson without vehicle age,2,vehicle brand: B3,-0.3830773356325806
+poisson without vehicle age,2,vehicle brand: B4,-0.3786208694455062
+poisson without vehicle age,2,vehicle brand: B5,-0.3516101820633465
+poisson without vehicle age,2,vehicle brand: B6,-0.3680765391832756
+poisson without vehicle age,2,fuel: diesel,-0.00632350514435143
+poisson without vehicle age,2,region: R11,-0.05615562912242095
+poisson without vehicle age,2,region: R21,0.10228697818076175
+poisson without vehicle age,2,region: R22,0.04514290162293406
+poisson without vehicle age,2,region: R23,-0.11599007877035065
+poisson without vehicle age,2,region: R25,-0.02262449706513652
+poisson without vehicle age,2,region: R26,-0.0375353345289447
+poisson without vehicle age,2,region: R31,-0.1335534113255661
+poisson without vehicle age,2,region: R41,-0.2703988688046742
+poisson without vehicle age,2,region: R42,-0.11658777037845637
+poisson without vehicle age,2,region: R43,-0.17895699381198155
+poisson without vehicle age,2,region: R52,-0.08847027196125683
+poisson without vehicle age,2,region: R53,0.03902850466171324
+poisson without vehicle age,2,region: R54,-0.11789539715385983
+poisson without vehicle age,2,region: R72,-0.13012930428887262
+poisson without vehicle age,2,region: R73,-0.15456702663732413
+poisson without vehicle age,2,region: R74,0.15869015034821213
+poisson without vehicle age,2,region: R82,0.026158291606071138
+poisson without vehicle age,2,region: R83,-0.30454718203435904
+poisson without vehicle age,2,region: R91,-0.10531773054320048
+poisson without vehicle age,2,region: R93,-0.03289062822743778
+poisson without vehicle age,2,region: R94,0.13226612597485987
+poisson without vehicle age,3,intercept,-2.3507226106789396
+poisson without vehicle age,3,driver age: 18-20,0.06153352060977901
+poisson without vehicle age,3,driver age: 21-25,-0.25291996127573213
+poisson without vehicle age,3,driver age: 26-30,-0.4637870770009909
+poisson without vehicle age,3,driver age: 31-40,-0.3436636405714736
+poisson without vehicle age,3,driver age: 51-70,-0.046230580123468125
+poisson without vehicle age,3,driver age: 71+,0.06253925333066306
+poisson without vehicle age,3,bonus-malus: 51-59,0.2738162825527612
+poisson without vehicle age,3,bonus-malus: 60-79,0.6144162869584914
+poisson without vehicle age,3,bonus-malus: 80-99,0.732148413569231
+poisson without vehicle age,3,bonus-malus: 100+,1.4752206841360915
+poisson without vehicle age,3,vehicle power: 4,-0.18066903045759589
+poisson without vehicle age,3,vehicle power: 5,0.020980258641462756
+poisson without vehicle age,3,vehicle power: 7,-0.06228720171078158
+poisson without vehicle age,3,vehicle power: 8,-0.2458690521883907
+poisson without vehicle age,3,vehicle power: 9+,0.006129022569399837
+poisson without vehicle age,3,density: log of inhabitants per km2,0.04904538665897409
+poisson without vehicle age,3,vehicle brand: B1,-0.3926172292911008
+poisson without vehicle age,3,vehicle brand: B10,-0.35097768387284994
+poisson without vehicle age,3,vehicle brand: B11,-0.2758738466875604
+poisson without vehicle age,3,vehicle brand: B13,-0.33652557332443167
+poisson without vehicle age,3,vehicle brand: B14,-0.5201131195555919
+poisson without vehicle age,3,vehicle brand: B2,-0.3837363648473376
+poisson without vehicle age,3,vehicle brand: B3,-0.3504712457616978
+poisson without vehicle age,3,vehicle brand: B4,-0.37740620998290514
+poisson without vehicle age,3,vehicle brand: B5,-0.3345978342717745
+poisson without vehicle age,3,vehicle brand: B6,-0.3760350801217935
+poisson without vehicle age,3,fuel: diesel,0.0012219052415830352
+poisson without vehicle age,3,region: R11,-0.08117368371498776
+poisson without vehicle age,3,region: R21,0.08049845324873196
+poisson without vehicle age,3,region: R22,0.0791216812496416
+poisson without vehicle age,3,region: R23,-0.05735792244321439
+poisson without vehicle age,3,region: R25,-0.05756855852930047
+poisson without vehicle age,3,region: R26,-0.010634002929243885
+poisson without vehicle age,3,region: R31,-0.15207460602191328
+poisson without vehicle age,3,region: R41,-0.2884473090922239
+poisson without vehicle age,3,region: R42,-0.07228923819073518
+poisson without vehicle age,3,region: R43,-0.17535963280120012
+poisson without vehicle age,3,region: R52,-0.08622949761033649
+poisson without vehicle age,3,region: R53,0.01475959012910594
+poisson without vehicle age,3,region: R54,-0.1019694736480792
+poisson without vehicle age,3,region: R72,-0.11401673757361333
+poisson without vehicle age,3,region: R73,-0.13072634813163977
+poisson without vehicle age,3,region: R74,0.0807127902465341
+poisson without vehicle age,3,region: R82,0.003780428360331859
+poisson without vehicle age,3,region: R83,-0.3057698179333587
+poisson without vehicle age,3,region: R91,-0.06596355650269749
+poisson without vehicle age,3,region: R93,-0.05044733433474008
+poisson without vehicle age,3,region: R94,0.07175997017292017
+poisson without vehicle age,4,intercept,-2.317958582497571
+poisson without vehicle age,4,driver age: 18-20,0.0505153125613264
+poisson without vehicle age,4,driver age: 21-25,-0.2241222133455884
+poisson without vehicle age,4,driver age: 26-30,-0.4547993171349829
+poisson without vehicle age,4,driver age: 31-40,-0.3333864144870421
+poisson without vehicle age,4,driver age: 51-70,-0.03884852361367785
+poisson without vehicle age,4,driver age: 71+,0.04553334144199748
+poisson without vehicle age,4,bonus-malus: 51-59,0.30437718527233004
+poisson without vehicle age,4,bonus-malus: 60-79,0.6316171509673889
+poisson without vehicle age,4,bonus-malus: 80-99,0.7271153236968435
+poisson without vehicle age,4,bonus-malus: 100+,1.4486554127338456
+poisson without vehicle age,4,vehicle power: 4,-0.1782010360862828
+poisson without vehicle age,4,vehicle power: 5,0.014507884604688765
+poisson without vehicle age,4,vehicle power: 7,-0.0730365863244918
+poisson without vehicle age,4,vehicle power: 8,-0.24667418766037905
+poisson without vehicle age,4,vehicle power: 9+,-0.009451802675947333
+poisson without vehicle age,4,density: log of inhabitants per km2,0.04703937042963637
+poisson without vehicle age,4,vehicle brand: B1,-0.40534140419816106
+poisson without vehicle age,4,vehicle brand: B10,-0.40673063784283753
+poisson without vehicle age,4,vehicle brand: B11,-0.2679548652048652
+poisson without vehicle age,4,vehicle brand: B13,-0.3108255711389025
+poisson without vehicle age,4,vehicle brand: B14,-0.5942478247098517
+poisson without vehicle age,4,vehicle brand: B2,-0.3953517518842285
+poisson without vehicle age,4,vehicle brand: B3,-0.38378233858135224
+poisson without vehicle age,4,vehicle brand: B4,-0.3822538628659972
+poisson without vehicle age,4,vehicle brand: B5,-0.3427444483534579
+poisson without vehicle age,4,vehicle brand: B6,-0.37560739981765073
+poisson without vehicle age,4,fuel: diesel,-0.015031594535591527
+poisson without vehicle age,4,region: R11,-0.06400405859081004
+poisson without vehicle age,4,region: R21,0.12438724962499494
+poisson without vehicle age,4,region: R22,-0.020396154211350402
+poisson without vehicle age,4,region: R23,-0.14315669166393188
+poisson without vehicle age,4,region: R25,-0.02201016167449672
+poisson without vehicle age,4,region: R26,0.005224758477159129
+poisson without vehicle age,4,region: R31,-0.17448147888135676
+poisson without vehicle age,4,region: R41,-0.2597660922759375
+poisson without vehicle age,4,region: R42,-0.06703039600198714
+poisson without vehicle age,4,region: R43,-0.07821036716279571
+poisson without vehicle age,4,region: R52,-0.08641319581630906
+poisson without vehicle age,4,region: R53,0.024798673000454362
+poisson without vehicle age,4,region: R54,-0.10658941756152272
+poisson without vehicle age,4,region: R72,-0.15539878328401283
+poisson without vehicle age,4,region: R73,-0.13456718365795114
+poisson without vehicle age,4,region: R74,0.17579675248871457
+poisson without vehicle age,4,region: R82,0.008730496063932584
+poisson without vehicle age,4,region: R83,-0.31501571449449023
+poisson without vehicle age,4,region: R91,-0.0874813345287299
+poisson without vehicle age,4,region: R93,-0.04566520808371037
+poisson without vehicle age,4,region: R94,0.10427725371714165
+poisson without vehicle age,all,intercept,-2.3218494101199316
+poisson without vehicle age,all,driver age: 18-20,0.06705268819781916
+poisson without vehicle age,all,driver age: 21-25,-0.24159958545140023
+poisson without vehicle age,all,driver age: 26-30,-0.4627122864636584
+poisson without vehicle age,all,driver age: 31-40,-0.3401717075359339
+poisson without vehicle age,all,driver age: 51-70,-0.044787426312216355
+poisson without vehicle age,all,driver age: 71+,0.04548985115136496
+poisson without vehicle age,all,bonus-malus: 51-59,0.2874756151925728
+poisson without vehicle age,all,bonus-malus: 60-79,0.6242160971301493
+poisson without vehicle age,all,bonus-malus: 80-99,0.7273662667002628
+poisson without vehicle age,all,bonus-malus: 100+,1.459408989116906
+poisson without vehicle age,all,vehicle power: 4,-0.1788746166399816
+poisson without vehicle age,all,vehicle power: 5,0.014072534123241344
+poisson without vehicle age,all,vehicle power: 7,-0.06598959090449988
+poisson without vehicle age,all,vehicle power: 8,-0.2554344965600125
+poisson without vehicle age,all,vehicle power: 9+,-0.001333944560048528
+poisson without vehicle age,all,density: log of inhabitants per km2,0.04583896667924017
+poisson without vehicle age,all,vehicle brand: B1,-0.4018777270515366
+poisson without vehicle age,all,vehicle brand: B10,-0.3711711884867435
+poisson without vehicle age,all,vehicle brand: B11,-0.2568099745355756
+poisson without vehicle age,all,vehicle brand: B13,-0.32776529081179323
+poisson without vehicle age,all,vehicle brand: B14,-0.5556009878081253
+poisson without vehicle age,all,vehicle brand: B2,-0.3961093232394068
+poisson without vehicle age,all,vehicle brand: B3,-0.3688341146198786
+poisson without vehicle age,all,vehicle brand: B4,-0.3735691832037727
+poisson without vehicle age,all,vehicle brand: B5,-0.33337359490444823
+poisson without vehicle age,all,vehicle brand: B6,-0.3727976619347704
+poisson without vehicle age,all,fuel: diesel,-0.01063514508149681
+poisson without vehicle age,all,region: R11,-0.06407776438870005
+poisson without vehicle age,all,region: R21,0.10141750073314543
+poisson without vehicle age,all,region: R22,0.037120810077486646
+poisson without vehicle age,all,region: R23,-0.1125020852448435
+poisson without vehicle age,all,region: R25,-0.03553604513005955
+poisson without vehicle age,all,region: R26,-0.02590193876783942
+poisson without vehicle age,all,region: R31,-0.1401943552515017
+poisson without vehicle age,all,region: R41,-0.27643594235009145
+poisson without vehicle age,all,region: R42,-0.03915461025907557
+poisson without vehicle age,all,region: R43,-0.1257961075338622
+poisson without vehicle age,all,region: R52,-0.08095663076182238
+poisson without vehicle age,all,region: R53,0.03950529256302436
+poisson without vehicle age,all,region: R54,-0.11703358746284284
+poisson without vehicle age,all,region: R72,-0.12753592899802355
+poisson without vehicle age,all,region: R73,-0.14939562322009778
+poisson without vehicle age,all,region: R74,0.11117831068480981
+poisson without vehicle age,all,region: R82,0.01972123160680338
+poisson without vehicle age,all,region: R83,-0.3210919816287865
+poisson without vehicle age,all,region: R91,-0.08472722730957973
+poisson without vehicle age,all,region: R93,-0.04067422225068498
+poisson without vehicle age,all,region: R94,0.09768971722519987
+poisson without vehicle power,0,intercept,-2.5505841443506427
+poisson without vehicle power,0,driver age: 18-20,0.10735743064808008
+poisson without vehicle power,0,driver age: 21-25,-0.2774754146347213
+poisson without vehicle power,0,driver age: 26-30,-0.4825694148551785
+poisson without vehicle power,0,driver age: 31-40,-0.3362379907872337
+poisson without vehicle power,0,driver age: 51-70,-0.06045577114525686
+poisson without vehicle power,0,driver age: 71+,0.008025149828520655
+poisson without vehicle power,0,bonus-malus: 51-59,0.29330265610632056
+poisson without vehicle power,0,bonus-malus: 60-79,0.6209155976590534
+poisson without vehicle power,0,bonus-malus: 80-99,0.7444922770778634
+poisson without vehicle power,0,bonus-malus: 100+,1.4452466922445402
+poisson without vehicle power,0,vehicle age: 0,1.14235170859136
+poisson without vehicle power,0,vehicle age: 6-10,0.06703738851655337
+poisson without vehicle power,0,vehicle age: 11-15,-0.11413811600850318
+poisson without vehicle power,0,vehicle age: 16+,-0.3838036748592149
+poisson without vehicle power,0,density: log of inhabitants per km2,0.03839665086143801
+poisson without vehicle power,0,vehicle brand: B1,-0.11646606564161406
+poisson without vehicle power,0,vehicle brand: B10,-0.10725037834839699
+poisson without vehicle power,0,vehicle brand: B11,-0.029782026313753658
+poisson without vehicle power,0,vehicle brand: B13,-0.06512665370862133
+poisson without vehicle power,0,vehicle brand: B14,-0.30365443519529667
+poisson without vehicle power,0,vehicle brand: B2,-0.13314927855469091
+poisson without vehicle power,0,vehicle brand: B3,-0.09371345581433728
+poisson without vehicle power,0,vehicle brand: B4,-0.11750860152316266
+poisson without vehicle power,0,vehicle brand: B5,-0.022274952787376835
+poisson without vehicle power,0,vehicle brand: B6,-0.15828070797808327
+poisson without vehicle power,0,fuel: diesel,-0.06546867700419426
+poisson without vehicle power,0,region: R11,-0.13935781922674834
+poisson without vehicle power,0,region: R21,0.01419231785090377
+poisson without vehicle power,0,region: R22,-0.03360004312899318
+poisson without vehicle power,0,region: R23,-0.21034398398837564
+poisson without vehicle power,0,region: R25,-0.04607859474115454
+poisson without vehicle power,0,region: R26,-0.09565923552683366
+poisson without vehicle power,0,region: R31,-0.19803290035140073
+poisson without vehicle power,0,region: R41,-0.33482268257804493
+poisson without vehicle power,0,region: R42,-0.04564647967163197
+poisson without vehicle power,0,region: R43,-0.07587833463071315
+poisson without vehicle power,0,region: R52,-0.0632249192563992
+poisson without vehicle power,0,region: R53,0.03577232561878357
+poisson without vehicle power,0,region: R54,-0.1318861395172704
+poisson without vehicle power,0,region: R72,-0.1564715027873639
+poisson without vehicle power,0,region: R73,-0.2149406116013559
+poisson without vehicle power,0,region: R74,0.06679188467570171
+poisson without vehicle power,0,region: R82,-0.006084235392876524
+poisson without vehicle power,0,region: R83,-0.38271682806251806
+poisson without vehicle power,0,region: R91,-0.13888885612095597
+poisson without vehicle power,0,region: R93,-0.09132253810773379
+poisson without vehicle power,0,region: R94,0.011162057303058883
+poisson without vehicle power,1,intercept,-2.596907965652967
+poisson without vehicle power,1,driver age: 18-20,0.07887588538815458
+poisson without vehicle power,1,driver age: 21-25,-0.2726021305245737
+poisson without vehicle power,1,driver age: 26-30,-0.4713688948917641
+poisson without vehicle power,1,driver age: 31-40,-0.3463352754299798
+poisson without vehicle power,1,driver age: 51-70,-0.04184169198318366
+poisson without vehicle power,1,driver age: 71+,0.02768384722411082
+poisson without vehicle power,1,bonus-malus: 51-59,0.29716841208728856
+poisson without vehicle power,1,bonus-malus: 60-79,0.6494329340518848
+poisson without vehicle power,1,bonus-malus: 80-99,0.763456975527848
+poisson without vehicle power,1,bonus-malus: 100+,1.4666683468428998
+poisson without vehicle power,1,vehicle age: 0,1.1746824231119593
+poisson without vehicle power,1,vehicle age: 6-10,0.08161068196882584
+poisson without vehicle power,1,vehicle age: 11-15,-0.10049743576031445
+poisson without vehicle power,1,vehicle age: 16+,-0.3751867910911382
+poisson without vehicle power,1,density: log of inhabitants per km2,0.039666738003056104
+poisson without vehicle power,1,vehicle brand: B1,-0.10863817518291667
+poisson without vehicle power,1,vehicle brand: B10,-0.07378884216207517
+poisson without vehicle power,1,vehicle brand: B11,0.003577992439864996
+poisson without vehicle power,1,vehicle brand: B13,-0.08433823323577208
+poisson without vehicle power,1,vehicle brand: B14,-0.3137508945360412
+poisson without vehicle power,1,vehicle brand: B2,-0.12100880348320082
+poisson without vehicle power,1,vehicle brand: B3,-0.10414092132906382
+poisson without vehicle power,1,vehicle brand: B4,-0.14359251452193578
+poisson without vehicle power,1,vehicle brand: B5,-0.029562156682968254
+poisson without vehicle power,1,vehicle brand: B6,-0.14765063850685292
+poisson without vehicle power,1,fuel: diesel,-0.06247594393568709
+poisson without vehicle power,1,region: R11,-0.13077613547451075
+poisson without vehicle power,1,region: R21,0.03418974156877911
+poisson without vehicle power,1,region: R22,-0.001959224380704067
+poisson without vehicle power,1,region: R23,-0.13878291854253264
+poisson without vehicle power,1,region: R25,-0.08519758662024249
+poisson without vehicle power,1,region: R26,-0.09684158731214146
+poisson without vehicle power,1,region: R31,-0.15619909828842063
+poisson without vehicle power,1,region: R41,-0.2845898893213266
+poisson without vehicle power,1,region: R42,-0.0032122753943798956
+poisson without vehicle power,1,region: R43,-0.19089799260960655
+poisson without vehicle power,1,region: R52,-0.08117993804873615
+poisson without vehicle power,1,region: R53,0.03161424851787417
+poisson without vehicle power,1,region: R54,-0.1309500877187311
+poisson without vehicle power,1,region: R72,-0.15789271694701443
+poisson without vehicle power,1,region: R73,-0.22253595589298109
+poisson without vehicle power,1,region: R74,0.06140010688506001
+poisson without vehicle power,1,region: R82,0.016043933714057084
+poisson without vehicle power,1,region: R83,-0.4709168472453068
+poisson without vehicle power,1,region: R91,-0.14156470860330314
+poisson without vehicle power,1,region: R93,-0.10288264397802939
+poisson without vehicle power,1,region: R94,0.0003096969965376557
+poisson without vehicle power,2,intercept,-2.579513665017647
+poisson without vehicle power,2,driver age: 18-20,0.04289861785417954
+poisson without vehicle power,2,driver age: 21-25,-0.2984094409529399
+poisson without vehicle power,2,driver age: 26-30,-0.5102767688133582
+poisson without vehicle power,2,driver age: 31-40,-0.34624344038206256
+poisson without vehicle power,2,driver age: 51-70,-0.07015465467037475
+poisson without vehicle power,2,driver age: 71+,0.027376913834536148
+poisson without vehicle power,2,bonus-malus: 51-59,0.29280017607343056
+poisson without vehicle power,2,bonus-malus: 60-79,0.646222051523801
+poisson without vehicle power,2,bonus-malus: 80-99,0.773174503183034
+poisson without vehicle power,2,bonus-malus: 100+,1.4719800961699268
+poisson without vehicle power,2,vehicle age: 0,1.175695285828776
+poisson without vehicle power,2,vehicle age: 6-10,0.07179623869552143
+poisson without vehicle power,2,vehicle age: 11-15,-0.1290205421850747
+poisson without vehicle power,2,vehicle age: 16+,-0.38622660867722497
+poisson without vehicle power,2,density: log of inhabitants per km2,0.040306776522863366
+poisson without vehicle power,2,vehicle brand: B1,-0.11210627015955668
+poisson without vehicle power,2,vehicle brand: B10,-0.07844050418118549
+poisson without vehicle power,2,vehicle brand: B11,-0.00235328926607139
+poisson without vehicle power,2,vehicle brand: B13,-0.03569356772705515
+poisson without vehicle power,2,vehicle brand: B14,-0.24898221431216536
+poisson without vehicle power,2,vehicle brand: B2,-0.11960863010625139
+poisson without vehicle power,2,vehicle brand: B3,-0.10443072501350681
+poisson without vehicle power,2,vehicle brand: B4,-0.13790177379430174
+poisson without vehicle power,2,vehicle brand: B5,-0.04687508906985744
+poisson without vehicle power,2,vehicle brand: B6,-0.14141193101872016
+poisson without vehicle power,2,fuel: diesel,-0.05166683210305118
+poisson without vehicle power,2,region: R11,-0.13400132503125545
+poisson without vehicle power,2,region: R21,0.014848958001426027
+poisson without vehicle power,2,region: R22,-0.00970889048074043
+poisson without vehicle power,2,region: R23,-0.17664318370261647
+poisson without vehicle power,2,region: R25,-0.052090489167411935
+poisson without vehicle power,2,region: R26,-0.09072104432458988
+poisson without vehicle power,2,region: R31,-0.18839274918439533
+poisson without vehicle power,2,region: R41,-0.29803188186516594
+poisson without vehicle power,2,region: R42,-0.1668154721767837
+poisson without vehicle power,2,region: R43,-0.1893677745853146
+poisson without vehicle power,2,region: R52,-0.09006798929115074
+poisson without vehicle power,2,region: R53,0.012424787716864907
+poisson without vehicle power,2,region: R54,-0.12072608037045311
+poisson without vehicle power,2,region: R72,-0.17185916373969784
+poisson without vehicle power,2,region: R73,-0.21067780935390867
+poisson without vehicle power,2,region: R74,0.14853045281522886
+poisson without vehicle power,2,region: R82,0.0020499646182010173
+poisson without vehicle power,2,region: R83,-0.38439502690716754
+poisson without vehicle power,2,region: R91,-0.16546025609830375
+poisson without vehicle power,2,region: R93,-0.09460851983969654
+poisson without vehicle power,2,region: R94,0.04726127104921253
+poisson without vehicle power,3,intercept,-2.609426368174965
+poisson without vehicle power,3,driver age: 18-20,0.06812218844301164
+poisson without vehicle power,3,driver age: 21-25,-0.28820498065376027
+poisson without vehicle power,3,driver age: 26-30,-0.48215870775782
+poisson without vehicle power,3,driver age: 31-40,-0.3467522835689688
+poisson without vehicle power,3,driver age: 51-70,-0.05789642800201009
+poisson without vehicle power,3,driver age: 71+,0.040818096068139936
+poisson without vehicle power,3,bonus-malus: 51-59,0.28281375173812984
+poisson without vehicle power,3,bonus-malus: 60-79,0.6288572140932362
+poisson without vehicle power,3,bonus-malus: 80-99,0.761603179801129
+poisson without vehicle power,3,bonus-malus: 100+,1.4758575867691717
+poisson without vehicle power,3,vehicle age: 0,1.1590506885133265
+poisson without vehicle power,3,vehicle age: 6-10,0.07610040014340701
+poisson without vehicle power,3,vehicle age: 11-15,-0.11317959920755745
+poisson without vehicle power,3,vehicle age: 16+,-0.35421579599416064
+poisson without vehicle power,3,density: log of inhabitants per km2,0.044456448180742465
+poisson without vehicle power,3,vehicle brand: B1,-0.10718232980117061
+poisson without vehicle power,3,vehicle brand: B10,-0.07080907137976584
+poisson without vehicle power,3,vehicle brand: B11,-0.039790249259879576
+poisson without vehicle power,3,vehicle brand: B13,-0.07495819749498671
+poisson without vehicle power,3,vehicle brand: B14,-0.2596126838680618
+poisson without vehicle power,3,vehicle brand: B2,-0.11428555942207662
+poisson without vehicle power,3,vehicle brand: B3,-0.08802356671923396
+poisson without vehicle power,3,vehicle brand: B4,-0.1414789764033008
+poisson without vehicle power,3,vehicle brand: B5,-0.04133607350827443
+poisson without vehicle power,3,vehicle brand: B6,-0.15665592675762824
+poisson without vehicle power,3,fuel: diesel,-0.04416530066602581
+poisson without vehicle power,3,region: R11,-0.15571779691819565
+poisson without vehicle power,3,region: R21,0.012725827060264807
+poisson without vehicle power,3,region: R22,0.028735334264226243
+poisson without vehicle power,3,region: R23,-0.10629612109400605
+poisson without vehicle power,3,region: R25,-0.08749051828671756
+poisson without vehicle power,3,region: R26,-0.06085279170393901
+poisson without vehicle power,3,region: R31,-0.20769811046141434
+poisson without vehicle power,3,region: R41,-0.3138684541458472
+poisson without vehicle power,3,region: R42,-0.12059345456134822
+poisson without vehicle power,3,region: R43,-0.20699947155245194
+poisson without vehicle power,3,region: R52,-0.08784926413026681
+poisson without vehicle power,3,region: R53,-0.008175181366601551
+poisson without vehicle power,3,region: R54,-0.1051024176439108
+poisson without vehicle power,3,region: R72,-0.1512436973252324
+poisson without vehicle power,3,region: R73,-0.18125003582993182
+poisson without vehicle power,3,region: R74,0.07518393983368016
+poisson without vehicle power,3,region: R82,-0.020924378149559972
+poisson without vehicle power,3,region: R83,-0.366424499280275
+poisson without vehicle power,3,region: R91,-0.12794606388726876
+poisson without vehicle power,3,region: R93,-0.10899708564036405
+poisson without vehicle power,3,region: R94,-5.1150128492930234e-05
+poisson without vehicle power,4,intercept,-2.5764250664403505
+poisson without vehicle power,4,driver age: 18-20,0.05665596869017807
+poisson without vehicle power,4,driver age: 21-25,-0.2608949641944904
+poisson without vehicle power,4,driver age: 26-30,-0.4773322964870714
+poisson without vehicle power,4,driver age: 31-40,-0.33489640759918415
+poisson without vehicle power,4,driver age: 51-70,-0.051648962627690066
+poisson without vehicle power,4,driver age: 71+,0.027847817249145125
+poisson without vehicle power,4,bonus-malus: 51-59,0.31329200160266707
+poisson without vehicle power,4,bonus-malus: 60-79,0.6476244074912221
+poisson without vehicle power,4,bonus-malus: 80-99,0.7593787530464933
+poisson without vehicle power,4,bonus-malus: 100+,1.4510208224533352
+poisson without vehicle power,4,vehicle age: 0,1.1491691755304672
+poisson without vehicle power,4,vehicle age: 6-10,0.05869358507134773
+poisson without vehicle power,4,vehicle age: 11-15,-0.11981543831334321
+poisson without vehicle power,4,vehicle age: 16+,-0.4090690588207219
+poisson without vehicle power,4,density: log of inhabitants per km2,0.04210838415389023
+poisson without vehicle power,4,vehicle brand: B1,-0.11146707869985599
+poisson without vehicle power,4,vehicle brand: B10,-0.12288703195492273
+poisson without vehicle power,4,vehicle brand: B11,-0.030577558839741947
+poisson without vehicle power,4,vehicle brand: B13,-0.03890858352780156
+poisson without vehicle power,4,vehicle brand: B14,-0.32011768351278047
+poisson without vehicle power,4,vehicle brand: B2,-0.11741924911645879
+poisson without vehicle power,4,vehicle brand: B3,-0.11003373963135778
+poisson without vehicle power,4,vehicle brand: B4,-0.14169103085152862
+poisson without vehicle power,4,vehicle brand: B5,-0.04076878532316087
+poisson without vehicle power,4,vehicle brand: B6,-0.1468736890846551
+poisson without vehicle power,4,fuel: diesel,-0.059860269494956195
+poisson without vehicle power,4,region: R11,-0.1373160605168463
+poisson without vehicle power,4,region: R21,0.046404672897289355
+poisson without vehicle power,4,region: R22,-0.07757008960654409
+poisson without vehicle power,4,region: R23,-0.1889315182825309
+poisson without vehicle power,4,region: R25,-0.05168174616128736
+poisson without vehicle power,4,region: R26,-0.04970497947458715
+poisson without vehicle power,4,region: R31,-0.22681606103870894
+poisson without vehicle power,4,region: R41,-0.29245450751018437
+poisson without vehicle power,4,region: R42,-0.11977721744005852
+poisson without vehicle power,4,region: R43,-0.11435939461837653
+poisson without vehicle power,4,region: R52,-0.0863626443515994
+poisson without vehicle power,4,region: R53,0.0011912475000078865
+poisson without vehicle power,4,region: R54,-0.11244311805301899
+poisson without vehicle power,4,region: R72,-0.19586533568929118
+poisson without vehicle power,4,region: R73,-0.18641884588488863
+poisson without vehicle power,4,region: R74,0.16955093131718554
+poisson without vehicle power,4,region: R82,-0.018339983823593944
+poisson without vehicle power,4,region: R83,-0.38749174711948936
+poisson without vehicle power,4,region: R91,-0.1439579641039216
+poisson without vehicle power,4,region: R93,-0.10657827033643714
+poisson without vehicle power,4,region: R94,0.021563552935480595
+poisson without vehicle power,all,intercept,-2.582603719006166
+poisson without vehicle power,all,driver age: 18-20,0.07094178198322658
+poisson without vehicle power,all,driver age: 21-25,-0.27946033524932345
+poisson without vehicle power,all,driver age: 26-30,-0.48469503229381594
+poisson without vehicle power,all,driver age: 31-40,-0.3420440608127051
+poisson without vehicle power,all,driver age: 51-70,-0.05636372791260658
+poisson without vehicle power,all,driver age: 71+,0.02638028538469237
+poisson without vehicle power,all,bonus-malus: 51-59,0.29597172527061893
+poisson without vehicle power,all,bonus-malus: 60-79,0.6386476906740606
+poisson without vehicle power,all,bonus-malus: 80-99,0.7603956617580567
+poisson without vehicle power,all,bonus-malus: 100+,1.4622412544465209
+poisson without vehicle power,all,vehicle age: 0,1.160232488111418
+poisson without vehicle power,all,vehicle age: 6-10,0.07102513984633123
+poisson without vehicle power,all,vehicle age: 11-15,-0.11532290333540374
+poisson without vehicle power,all,vehicle age: 16+,-0.38165949459903836
+poisson without vehicle power,all,density: log of inhabitants per km2,0.040999640170761735
+poisson without vehicle power,all,vehicle brand: B1,-0.11119680149438585
+poisson without vehicle power,all,vehicle brand: B10,-0.09047344478935268
+poisson without vehicle power,all,vehicle brand: B11,-0.019603039087463497
+poisson without vehicle power,all,vehicle brand: B13,-0.0596522294662857
+poisson without vehicle power,all,vehicle brand: B14,-0.2888313194863825
+poisson without vehicle power,all,vehicle brand: B2,-0.12107991551822364
+poisson without vehicle power,all,vehicle brand: B3,-0.10004903256753077
+poisson without vehicle power,all,vehicle brand: B4,-0.13637906954520665
+poisson without vehicle power,all,vehicle brand: B5,-0.03610585260518068
+poisson without vehicle power,all,vehicle brand: B6,-0.15017912055208668
+poisson without vehicle power,all,fuel: diesel,-0.05671338283820796
+poisson without vehicle power,all,region: R11,-0.13942252768688848
+poisson without vehicle power,all,region: R21,0.024720108713505034
+poisson without vehicle power,all,region: R22,-0.018411510206870842
+poisson without vehicle power,all,region: R23,-0.16363797903119862
+poisson without vehicle power,all,region: R25,-0.06434734031423003
+poisson without vehicle power,all,region: R26,-0.07835187193547324
+poisson without vehicle power,all,region: R31,-0.19524480778527872
+poisson without vehicle power,all,region: R41,-0.3046670941423824
+poisson without vehicle power,all,region: R42,-0.08925029786919583
+poisson without vehicle power,all,region: R43,-0.15369297466785373
+poisson without vehicle power,all,region: R52,-0.08175362430797006
+poisson without vehicle power,all,region: R53,0.014652142984414184
+poisson without vehicle power,all,region: R54,-0.12011249250072982
+poisson without vehicle power,all,region: R72,-0.16657221513960174
+poisson without vehicle power,all,region: R73,-0.20311317441361756
+poisson without vehicle power,all,region: R74,0.1054770146934665
+poisson without vehicle power,all,region: R82,-0.005484333971871936
+poisson without vehicle power,all,region: R83,-0.3977375140144122
+poisson without vehicle power,all,region: R91,-0.14350948656419257
+poisson without vehicle power,all,region: R93,-0.10089570088471209
+poisson without vehicle power,all,region: R94,0.016217788828132764
+poisson without density,0,intercept,-2.2741442859699776
+poisson without density,0,driver age: 18-20,0.09613158239220039
+poisson without density,0,driver age: 21-25,-0.28059038518878654
+poisson without density,0,driver age: 26-30,-0.4877616086715278
+poisson without density,0,driver age: 31-40,-0.3403821270829025
+poisson without density,0,driver age: 51-70,-0.059377004291725724
+poisson without density,0,driver age: 71+,0.006218647197022077
+poisson without density,0,bonus-malus: 51-59,0.301996939163522
+poisson without density,0,bonus-malus: 60-79,0.6341312591554398
+poisson without density,0,bonus-malus: 80-99,0.7673081304104381
+poisson without density,0,bonus-malus: 100+,1.4741448337759393
+poisson without density,0,vehicle age: 0,1.1584734339043696
+poisson without density,0,vehicle age: 6-10,0.05590822191251517
+poisson without density,0,vehicle age: 11-15,-0.11150098936476553
+poisson without density,0,vehicle age: 16+,-0.3746678592777023
+poisson without density,0,vehicle power: 4,-0.20425728725508543
+poisson without density,0,vehicle power: 5,-0.03299254816256474
+poisson without density,0,vehicle power: 7,-0.0757307667547045
+poisson without density,0,vehicle power: 8,-0.27849686831409776
+poisson without density,0,vehicle power: 9+,-0.0001641681947226985
+poisson without density,0,vehicle brand: B1,-0.13366605595870135
+poisson without density,0,vehicle brand: B10,-0.11557697226142927
+poisson without density,0,vehicle brand: B11,-0.042846652248254465
+poisson without density,0,vehicle brand: B13,-0.08228618265552091
+poisson without density,0,vehicle brand: B14,-0.28364000644036685
+poisson without density,0,vehicle brand: B2,-0.14480440175858153
+poisson without density,0,vehicle brand: B3,-0.11443582382389143
+poisson without density,0,vehicle brand: B4,-0.11384335640407776
+poisson without density,0,vehicle brand: B5,-0.041921065438755914
+poisson without density,0,vehicle brand: B6,-0.13639224983842574
+poisson without density,0,fuel: diesel,-0.09681447110683968
+poisson without density,0,region: R11,-0.014853129514498593
+poisson without density,0,region: R21,0.038571595618607804
+poisson without density,0,region: R22,0.007675961781187689
+poisson without density,0,region: R23,-0.1664140593123065
+poisson without density,0,region: R25,-0.013975743230478677
+poisson without density,0,region: R26,-0.09088333027413834
+poisson without density,0,region: R31,-0.12368194812422066
+poisson without density,0,region: R41,-0.2782933492684259
+poisson without density,0,region: R42,0.008929415899876818
+poisson without density,0,region: R43,-0.07421662368970117
+poisson without density,0,region: R52,-0.019028841084808956
+poisson without density,0,region: R53,0.06883339394639529
+poisson without density,0,region: R54,-0.11316547828201756
+poisson without density,0,region: R72,-0.11531426716258394
+poisson without density,0,region: R73,-0.17603499657669439
+poisson without density,0,region: R74,0.05910207993217889
+poisson without density,0,region: R82,0.05961072405123067
+poisson without density,0,region: R83,-0.35715834984362543
+poisson without density,0,region: R91,-0.09928370793933475
+poisson without density,0,region: R93,-0.017683974918044763
+poisson without density,0,region: R94,0.03086498495284338
+poisson without density,1,intercept,-2.3219211518853418
+poisson without density,1,driver age: 18-20,0.06495125828015642
+poisson without density,1,driver age: 21-25,-0.2782159033567485
+poisson without density,1,driver age: 26-30,-0.47754182993246225
+poisson without density,1,driver age: 31-40,-0.350258521613084
+poisson without density,1,driver age: 51-70,-0.04049978255884706
+poisson without density,1,driver age: 71+,0.025741518844093963
+poisson without density,1,bonus-malus: 51-59,0.3056353344318574
+poisson without density,1,bonus-malus: 60-79,0.6628767066994239
+poisson without density,1,bonus-malus: 80-99,0.7869231405070657
+poisson without density,1,bonus-malus: 100+,1.4953932424951182
+poisson without density,1,vehicle age: 0,1.1896805871068021
+poisson without density,1,vehicle age: 6-10,0.07273423577964977
+poisson without density,1,vehicle age: 11-15,-0.09523653801287225
+poisson without density,1,vehicle age: 16+,-0.36394114699805236
+poisson without density,1,vehicle power: 4,-0.1937098779161313
+poisson without density,1,vehicle power: 5,-0.004482489933741489
+poisson without density,1,vehicle power: 7,-0.07410568285913881
+poisson without density,1,vehicle power: 8,-0.2763242965861916
+poisson without density,1,vehicle power: 9+,0.003377979318865396
+poisson without density,1,vehicle brand: B1,-0.12725577418575443
+poisson without density,1,vehicle brand: B10,-0.07999473335988495
+poisson without density,1,vehicle brand: B11,-0.006462842113994157
+poisson without density,1,vehicle brand: B13,-0.10008916989361595
+poisson without density,1,vehicle brand: B14,-0.29663157939522566
+poisson without density,1,vehicle brand: B2,-0.13704481461530882
+poisson without density,1,vehicle brand: B3,-0.12867938549909796
+poisson without density,1,vehicle brand: B4,-0.14511203987532217
+poisson without density,1,vehicle brand: B5,-0.05731932503648062
+poisson without density,1,vehicle brand: B6,-0.1271701054950348
+poisson without density,1,fuel: diesel,-0.0921911373587403
+poisson without density,1,region: R11,-0.002177980386943574
+poisson without density,1,region: R21,0.063049890508869
+poisson without density,1,region: R22,0.04070094577580143
+poisson without density,1,region: R23,-0.09354033985266301
+poisson without density,1,region: R25,-0.05122020596608214
+poisson without density,1,region: R26,-0.09140344947752484
+poisson without density,1,region: R31,-0.08102465877110769
+poisson without density,1,region: R41,-0.22728242969299103
+poisson without density,1,region: R42,0.05399326355093842
+poisson without density,1,region: R43,-0.1867747930172656
+poisson without density,1,region: R52,-0.037421069673114524
+poisson without density,1,region: R53,0.06507782462317642
+poisson without density,1,region: R54,-0.11033441264129193
+poisson without density,1,region: R72,-0.11512478186315879
+poisson without density,1,region: R73,-0.1826954013496471
+poisson without density,1,region: R74,0.050363192749043474
+poisson without density,1,region: R82,0.08425268402041083
+poisson without density,1,region: R83,-0.4465867838466449
+poisson without density,1,region: R91,-0.10042247533118683
+poisson without density,1,region: R93,-0.02796437417254304
+poisson without density,1,region: R94,0.02284916190240127
+poisson without density,2,intercept,-2.2781551407689595
+poisson without density,2,driver age: 18-20,0.029085889133461388
+poisson without density,2,driver age: 21-25,-0.30328763042377566
+poisson without density,2,driver age: 26-30,-0.5163764554843496
+poisson without density,2,driver age: 31-40,-0.3511224347886833
+poisson without density,2,driver age: 51-70,-0.06922542702138437
+poisson without density,2,driver age: 71+,0.02536228985768004
+poisson without density,2,bonus-malus: 51-59,0.30198773495671255
+poisson without density,2,bonus-malus: 60-79,0.660519887173525
+poisson without density,2,bonus-malus: 80-99,0.7992304163868281
+poisson without density,2,bonus-malus: 100+,1.504177848113375
+poisson without density,2,vehicle age: 0,1.1939557406235481
+poisson without density,2,vehicle age: 6-10,0.05879508135425185
+poisson without density,2,vehicle age: 11-15,-0.12639575591186686
+poisson without density,2,vehicle age: 16+,-0.3762293486907274
+poisson without density,2,vehicle power: 4,-0.23751530223658132
+poisson without density,2,vehicle power: 5,-0.03779692396726824
+poisson without density,2,vehicle power: 7,-0.09614525737998386
+poisson without density,2,vehicle power: 8,-0.30521281732509936
+poisson without density,2,vehicle power: 9+,-0.0029598597760064557
+poisson without density,2,vehicle brand: B1,-0.13132988410618474
+poisson without density,2,vehicle brand: B10,-0.0877515764254497
+poisson without density,2,vehicle brand: B11,-0.015548888139545847
+poisson without density,2,vehicle brand: B13,-0.05659450498483761
+poisson without density,2,vehicle brand: B14,-0.2295664323606948
+poisson without density,2,vehicle brand: B2,-0.1326795608026828
+poisson without density,2,vehicle brand: B3,-0.12941491153208634
+poisson without density,2,vehicle brand: B4,-0.1332712007566332
+poisson without density,2,vehicle brand: B5,-0.06976216743761543
+poisson without density,2,vehicle brand: B6,-0.11553053212607838
+poisson without density,2,fuel: diesel,-0.08735774884534948
+poisson without density,2,region: R11,-0.004271371753238223
+poisson without density,2,region: R21,0.04486711094315935
+poisson without density,2,region: R22,0.031505949376387135
+poisson without density,2,region: R23,-0.1301858484638281
+poisson without density,2,region: R25,-0.014701051149134479
+poisson without density,2,region: R26,-0.08627207648056891
+poisson without density,2,region: R31,-0.11044054900774707
+poisson without density,2,region: R41,-0.239458447436356
+poisson without density,2,region: R42,-0.10826075402395019
+poisson without density,2,region: R43,-0.19031072162388316
+poisson without density,2,region: R52,-0.044932469707334
+poisson without density,2,region: R53,0.047063481700520604
+poisson without density,2,region: R54,-0.10114626018215185
+poisson without density,2,region: R72,-0.12883377332074047
+poisson without density,2,region: R73,-0.17079608739966004
+poisson without density,2,region: R74,0.14034553292439506
+poisson without density,2,region: R82,0.0709769985008508
+poisson without density,2,region: R83,-0.35598077040122617
+poisson without density,2,region: R91,-0.12323122052833413
+poisson without density,2,region: R93,-0.01812481317778812
+poisson without density,2,region: R94,0.07448100001861893
+poisson without density,3,intercept,-2.3039082066706436
+poisson without density,3,driver age: 18-20,0.05307210686208146
+poisson without density,3,driver age: 21-25,-0.2924555706254706
+poisson without density,3,driver age: 26-30,-0.4886675032521666
+poisson without density,3,driver age: 31-40,-0.3508173161192683
+poisson without density,3,driver age: 51-70,-0.056293848898846977
+poisson without density,3,driver age: 71+,0.03946071379077077
+poisson without density,3,bonus-malus: 51-59,0.2930358840429156
+poisson without density,3,bonus-malus: 60-79,0.6441956542556588
+poisson without density,3,bonus-malus: 80-99,0.7887025590479994
+poisson without density,3,bonus-malus: 100+,1.5090358545527667
+poisson without density,3,vehicle age: 0,1.1749167538693306
+poisson without density,3,vehicle age: 6-10,0.06446003582764462
+poisson without density,3,vehicle age: 11-15,-0.11024363142981322
+poisson without density,3,vehicle age: 16+,-0.34595802701233735
+poisson without density,3,vehicle power: 4,-0.21459779647005106
+poisson without density,3,vehicle power: 5,-0.0174468631103767
+poisson without density,3,vehicle power: 7,-0.07940849932205131
+poisson without density,3,vehicle power: 8,-0.2697523212615591
+poisson without density,3,vehicle power: 9+,0.006645495917782652
+poisson without density,3,vehicle brand: B1,-0.12391049674692287
+poisson without density,3,vehicle brand: B10,-0.0797235816379243
+poisson without density,3,vehicle brand: B11,-0.052519702065606876
+poisson without density,3,vehicle brand: B13,-0.09270038633528761
+poisson without density,3,vehicle brand: B14,-0.2402491115177861
+poisson without density,3,vehicle brand: B2,-0.1271461342312627
+poisson without density,3,vehicle brand: B3,-0.10982516452361986
+poisson without density,3,vehicle brand: B4,-0.13785598039527647
+poisson without density,3,vehicle brand: B5,-0.06410272355880688
+poisson without density,3,vehicle brand: B6,-0.1331205387811018
+poisson without density,3,fuel: diesel,-0.07943477209689818
+poisson without density,3,region: R11,-0.012973059109548565
+poisson without density,3,region: R21,0.041914843271162606
+poisson without density,3,region: R22,0.07386930206543407
+poisson without density,3,region: R23,-0.05536570876212039
+poisson without density,3,region: R25,-0.04838255669345912
+poisson without density,3,region: R26,-0.055005353948069595
+poisson without density,3,region: R31,-0.12319399355809277
+poisson without density,3,region: R41,-0.24871518446899823
+poisson without density,3,region: R42,-0.05255900562041439
+poisson without density,3,region: R43,-0.20565735932208198
+poisson without density,3,region: R52,-0.037875301829728564
+poisson without density,3,region: R53,0.02909150714799064
+poisson without density,3,region: R54,-0.08289534613133065
+poisson without density,3,region: R72,-0.10221722400029883
+poisson without density,3,region: R73,-0.13677610481950803
+poisson without density,3,region: R74,0.06295021983976212
+poisson without density,3,region: R82,0.05519329957343184
+poisson without density,3,region: R83,-0.34005593830951475
+poisson without density,3,region: R91,-0.08329610948929886
+poisson without density,3,region: R93,-0.02495263619538678
+poisson without density,3,region: R94,0.024349799480712208
+poisson without density,4,intercept,-2.277014095043647
+poisson without density,4,driver age: 18-20,0.0411754522284048
+poisson without density,4,driver age: 21-25,-0.26749869744372556
+poisson without density,4,driver age: 26-30,-0.48418408190319423
+poisson without density,4,driver age: 31-40,-0.3393296938494488
+poisson without density,4,driver age: 51-70,-0.05063991436315637
+poisson without density,4,driver age: 71+,0.0247973441125182
+poisson without density,4,bonus-malus: 51-59,0.32252801676434684
+poisson without density,4,bonus-malus: 60-79,0.6619622564960401
+poisson without density,4,bonus-malus: 80-99,0.7852855431051442
+poisson without density,4,bonus-malus: 100+,1.482509643378246
+poisson without density,4,vehicle age: 0,1.165015342437362
+poisson without density,4,vehicle age: 6-10,0.0481314849253335
+poisson without density,4,vehicle age: 11-15,-0.1161352052113206
+poisson without density,4,vehicle age: 16+,-0.400137482402898
+poisson without density,4,vehicle power: 4,-0.21006165544237482
+poisson without density,4,vehicle power: 5,-0.020622909280572033
+poisson without density,4,vehicle power: 7,-0.0879746588166121
+poisson without density,4,vehicle power: 8,-0.26991707233888357
+poisson without density,4,vehicle power: 9+,-0.007154569142298612
+poisson without density,4,vehicle brand: B1,-0.12997655212631576
+poisson without density,4,vehicle brand: B10,-0.12889141520971628
+poisson without density,4,vehicle brand: B11,-0.04033617511225539
+poisson without density,4,vehicle brand: B13,-0.056494129384233614
+poisson without density,4,vehicle brand: B14,-0.30450051049781673
+poisson without density,4,vehicle brand: B2,-0.13250146233677754
+poisson without density,4,vehicle brand: B3,-0.13407247431616076
+poisson without density,4,vehicle brand: B4,-0.13985249219038215
+poisson without density,4,vehicle brand: B5,-0.06558620973897657
+poisson without density,4,vehicle brand: B6,-0.12601261264799365
+poisson without density,4,fuel: diesel,-0.0945136105287876
+poisson without density,4,region: R11,-0.001741562522599678
+poisson without density,4,region: R21,0.07375661063619952
+poisson without density,4,region: R22,-0.03396237909520845
+poisson without density,4,region: R23,-0.14082738494147024
+poisson without density,4,region: R25,-0.014939256242839583
+poisson without density,4,region: R26,-0.04440964644276323
+poisson without density,4,region: R31,-0.146554326885296
+poisson without density,4,region: R41,-0.2318182452257391
+poisson without density,4,region: R42,-0.059101060079567315
+poisson without density,4,region: R43,-0.11365827269635967
+poisson without density,4,region: R52,-0.03915772766508292
+poisson without density,4,region: R53,0.03533224696784613
+poisson without density,4,region: R54,-0.09141650445404267
+poisson without density,4,region: R72,-0.15022731198088263
+poisson without density,4,region: R73,-0.14488455817286613
+poisson without density,4,region: R74,0.1606850687121457
+poisson without density,4,region: R82,0.05420371776397315
+poisson without density,4,region: R83,-0.36119442597195683
+poisson without density,4,region: R91,-0.10206383121032715
+poisson without density,4,region: R93,-0.027728026511410937
+poisson without density,4,region: R94,0.04561896019312309
+poisson without density,all,intercept,-2.2910009673391807
+poisson without density,all,driver age: 18-20,0.05704252703190355
+poisson without density,all,driver age: 21-25,-0.28434868169541094
+poisson without density,all,driver age: 26-30,-0.4908554529867126
+poisson without density,all,driver age: 31-40,-0.3463145138645142
+poisson without density,all,driver age: 51-70,-0.05516331950125152
+poisson without density,all,driver age: 71+,0.024339803869814696
+poisson without density,all,bonus-malus: 51-59,0.30513631976296174
+poisson without density,all,bonus-malus: 60-79,0.6527645646003694
+poisson without density,all,bonus-malus: 80-99,0.7854724135267317
+poisson without density,all,bonus-malus: 100+,1.4931494161763463
+poisson without density,all,vehicle age: 0,1.176461808830513
+poisson without density,all,vehicle age: 6-10,0.059999430213002414
+poisson without density,all,vehicle age: 11-15,-0.11187984417709732
+poisson without density,all,vehicle age: 16+,-0.3721355022475323
+poisson without density,all,vehicle power: 4,-0.21202239871175865
+poisson without density,all,vehicle power: 5,-0.0226231480523554
+poisson without density,all,vehicle power: 7,-0.08265241846218037
+poisson without density,all,vehicle power: 8,-0.27982445750599577
+poisson without density,all,vehicle power: 9+,-0.00011661607694320953
+poisson without density,all,vehicle brand: B1,-0.12925590368633927
+poisson without density,all,vehicle brand: B10,-0.09822034175120069
+poisson without density,all,vehicle brand: B11,-0.03134484195269546
+poisson without density,all,vehicle brand: B13,-0.07749909512618934
+poisson without density,all,vehicle brand: B14,-0.27047316965194196
+poisson without density,all,vehicle brand: B2,-0.13482251696199976
+poisson without density,all,vehicle brand: B3,-0.12327340870365255
+poisson without density,all,vehicle brand: B4,-0.13394375374946685
+poisson without density,all,vehicle brand: B5,-0.05966267558095502
+poisson without density,all,vehicle brand: B6,-0.12766017410442232
+poisson without density,all,fuel: diesel,-0.09006683425748155
+poisson without density,all,region: R11,-0.0071457075688338015
+poisson without density,all,region: R21,0.05268149968771491
+poisson without density,all,region: R22,0.02438751554303137
+poisson without density,all,region: R23,-0.1167507624818771
+poisson without density,all,region: R25,-0.028491736436820573
+poisson without density,all,region: R26,-0.07318218778313464
+poisson without density,all,region: R31,-0.1167875446891536
+poisson without density,all,region: R41,-0.24498673371917246
+poisson without density,all,region: R42,-0.029467997358114093
+poisson without density,all,region: R43,-0.15217827642121842
+poisson without density,all,region: R52,-0.035662411154419094
+poisson without density,all,region: R53,0.0491800129380876
+poisson without density,all,region: R54,-0.09966652582109091
+poisson without density,all,region: R72,-0.12221293613464584
+poisson without density,all,region: R73,-0.16216630174031443
+poisson without density,all,region: R74,0.09586863139515739
+poisson without density,all,region: R82,0.0648353245206015
+poisson without density,all,region: R83,-0.37153845614712105
+poisson without density,all,region: R91,-0.10160574426585058
+poisson without density,all,region: R93,-0.023293871215406995
+poisson without density,all,region: R94,0.039704289240768506
+poisson without vehicle brand,0,intercept,-2.567562823880235
+poisson without vehicle brand,0,driver age: 18-20,0.09812872197822656
+poisson without vehicle brand,0,driver age: 21-25,-0.27900620050220976
+poisson without vehicle brand,0,driver age: 26-30,-0.4869509230843224
+poisson without vehicle brand,0,driver age: 31-40,-0.3389550057717586
+poisson without vehicle brand,0,driver age: 51-70,-0.06024282589148422
+poisson without vehicle brand,0,driver age: 71+,0.00290908763550556
+poisson without vehicle brand,0,bonus-malus: 51-59,0.2933912289215039
+poisson without vehicle brand,0,bonus-malus: 60-79,0.6226966805190653
+poisson without vehicle brand,0,bonus-malus: 80-99,0.7529413265499163
+poisson without vehicle brand,0,bonus-malus: 100+,1.461880484544257
+poisson without vehicle brand,0,vehicle age: 0,1.180433166171502
+poisson without vehicle brand,0,vehicle age: 6-10,0.028013638942103167
+poisson without vehicle brand,0,vehicle age: 11-15,-0.14625457199231692
+poisson without vehicle brand,0,vehicle age: 16+,-0.4071193022482775
+poisson without vehicle brand,0,vehicle power: 4,-0.19397490593694772
+poisson without vehicle brand,0,vehicle power: 5,-0.03279383714423073
+poisson without vehicle brand,0,vehicle power: 7,-0.0680915212042588
+poisson without vehicle brand,0,vehicle power: 8,-0.25800756295172045
+poisson without vehicle brand,0,vehicle power: 9+,0.028018566534303232
+poisson without vehicle brand,0,density: log of inhabitants per km2,0.03786642155293891
+poisson without vehicle brand,0,fuel: diesel,-0.08710427320602493
+poisson without vehicle brand,0,region: R11,-0.09262633979956403
+poisson without vehicle brand,0,region: R21,0.08451234685268078
+poisson without vehicle brand,0,region: R22,0.007994100577316483
+poisson without vehicle brand,0,region: R23,-0.18374599378621628
+poisson without vehicle brand,0,region: R25,-0.030844186686206088
+poisson without vehicle brand,0,region: R26,-0.06653566835634629
+poisson without vehicle brand,0,region: R31,-0.16219669291832628
+poisson without vehicle brand,0,region: R41,-0.30736626713947446
+poisson without vehicle brand,0,region: R42,-0.03372126082240429
+poisson without vehicle brand,0,region: R43,-0.0473230545641497
+poisson without vehicle brand,0,region: R52,-0.04926710539105991
+poisson without vehicle brand,0,region: R53,0.04253641847629894
+poisson without vehicle brand,0,region: R54,-0.1181758042972909
+poisson without vehicle brand,0,region: R72,-0.12428925752962876
+poisson without vehicle brand,0,region: R73,-0.16620848549225872
+poisson without vehicle brand,0,region: R74,0.10427313527816416
+poisson without vehicle brand,0,region: R82,0.007301145726353692
+poisson without vehicle brand,0,region: R83,-0.32533958502445437
+poisson without vehicle brand,0,region: R91,-0.09968054812055
+poisson without vehicle brand,0,region: R93,-0.05712060415056737
+poisson without vehicle brand,0,region: R94,0.08915408469655106
+poisson without vehicle brand,1,intercept,-2.6190346425599045
+poisson without vehicle brand,1,driver age: 18-20,0.06689653758496487
+poisson without vehicle brand,1,driver age: 21-25,-0.27702793847838886
+poisson without vehicle brand,1,driver age: 26-30,-0.47768096632814844
+poisson without vehicle brand,1,driver age: 31-40,-0.3492279522416719
+poisson without vehicle brand,1,driver age: 51-70,-0.04115705741595546
+poisson without vehicle brand,1,driver age: 71+,0.023374866604126347
+poisson without vehicle brand,1,bonus-malus: 51-59,0.29633667862088364
+poisson without vehicle brand,1,bonus-malus: 60-79,0.6503495064259545
+poisson without vehicle brand,1,bonus-malus: 80-99,0.7712208710194477
+poisson without vehicle brand,1,bonus-malus: 100+,1.4823652913582381
+poisson without vehicle brand,1,vehicle age: 0,1.2119616999471672
+poisson without vehicle brand,1,vehicle age: 6-10,0.0447123334731527
+poisson without vehicle brand,1,vehicle age: 11-15,-0.12859431830206933
+poisson without vehicle brand,1,vehicle age: 16+,-0.393502719057009
+poisson without vehicle brand,1,vehicle power: 4,-0.18313869103494373
+poisson without vehicle brand,1,vehicle power: 5,-0.0066929109479351495
+poisson without vehicle brand,1,vehicle power: 7,-0.06446408896566769
+poisson without vehicle brand,1,vehicle power: 8,-0.2538713853620343
+poisson without vehicle brand,1,vehicle power: 9+,0.034639515133818355
+poisson without vehicle brand,1,density: log of inhabitants per km2,0.038995105578929046
+poisson without vehicle brand,1,fuel: diesel,-0.08099011071434788
+poisson without vehicle brand,1,region: R11,-0.08567968451439839
+poisson without vehicle brand,1,region: R21,0.10018725505820344
+poisson without vehicle brand,1,region: R22,0.03576494737954735
+poisson without vehicle brand,1,region: R23,-0.1141819771327248
+poisson without vehicle brand,1,region: R25,-0.070054815566828
+poisson without vehicle brand,1,region: R26,-0.0704690320287748
+poisson without vehicle brand,1,region: R31,-0.12339300838220903
+poisson without vehicle brand,1,region: R41,-0.2615481432196829
+poisson without vehicle brand,1,region: R42,0.010218550615184395
+poisson without vehicle brand,1,region: R43,-0.15905815122442507
+poisson without vehicle brand,1,region: R52,-0.06921005664815386
+poisson without vehicle brand,1,region: R53,0.03749124618154727
+poisson without vehicle brand,1,region: R54,-0.11750171827013653
+poisson without vehicle brand,1,region: R72,-0.12844670199944103
+poisson without vehicle brand,1,region: R73,-0.17642323763853537
+poisson without vehicle brand,1,region: R74,0.09639240677960786
+poisson without vehicle brand,1,region: R82,0.02860119384714287
+poisson without vehicle brand,1,region: R83,-0.415883667290996
+poisson without vehicle brand,1,region: R91,-0.10359497886358478
+poisson without vehicle brand,1,region: R93,-0.07084577105117125
+poisson without vehicle brand,1,region: R94,0.07646364889012527
+poisson without vehicle brand,2,intercept,-2.5774793997170513
+poisson without vehicle brand,2,driver age: 18-20,0.03293105428277452
+poisson without vehicle brand,2,driver age: 21-25,-0.3013699267862295
+poisson without vehicle brand,2,driver age: 26-30,-0.5155293512088228
+poisson without vehicle brand,2,driver age: 31-40,-0.34995032012955396
+poisson without vehicle brand,2,driver age: 51-70,-0.06978177656703267
+poisson without vehicle brand,2,driver age: 71+,0.02385263314112982
+poisson without vehicle brand,2,bonus-malus: 51-59,0.2926036922301839
+poisson without vehicle brand,2,bonus-malus: 60-79,0.6477655571483788
+poisson without vehicle brand,2,bonus-malus: 80-99,0.7822800718970299
+poisson without vehicle brand,2,bonus-malus: 100+,1.4900537552563724
+poisson without vehicle brand,2,vehicle age: 0,1.2154080544564274
+poisson without vehicle brand,2,vehicle age: 6-10,0.03150197304668025
+poisson without vehicle brand,2,vehicle age: 11-15,-0.15918676886413166
+poisson without vehicle brand,2,vehicle age: 16+,-0.40643091118022207
+poisson without vehicle brand,2,vehicle power: 4,-0.22558038512114972
+poisson without vehicle brand,2,vehicle power: 5,-0.0404579226024523
+poisson without vehicle brand,2,vehicle power: 7,-0.08684400724160292
+poisson without vehicle brand,2,vehicle power: 8,-0.28109393959230566
+poisson without vehicle brand,2,vehicle power: 9+,0.02889584241182445
+poisson without vehicle brand,2,density: log of inhabitants per km2,0.03950867540650676
+poisson without vehicle brand,2,fuel: diesel,-0.07641325417391853
+poisson without vehicle brand,2,region: R11,-0.08949180864075865
+poisson without vehicle brand,2,region: R21,0.08302342289852728
+poisson without vehicle brand,2,region: R22,0.027598605614176288
+poisson without vehicle brand,2,region: R23,-0.15044746350918492
+poisson without vehicle brand,2,region: R25,-0.034271759274541076
+poisson without vehicle brand,2,region: R26,-0.06101395771181345
+poisson without vehicle brand,2,region: R31,-0.15352471854490313
+poisson without vehicle brand,2,region: R41,-0.27524330086334237
+poisson without vehicle brand,2,region: R42,-0.15424351534890543
+poisson without vehicle brand,2,region: R43,-0.16389270418025112
+poisson without vehicle brand,2,region: R52,-0.07686437551417495
+poisson without vehicle brand,2,region: R53,0.019042991858845754
+poisson without vehicle brand,2,region: R54,-0.10790334138280334
+poisson without vehicle brand,2,region: R72,-0.1417357351221107
+poisson without vehicle brand,2,region: R73,-0.16303236566737836
+poisson without vehicle brand,2,region: R74,0.1872106911683309
+poisson without vehicle brand,2,region: R82,0.0152044724637742
+poisson without vehicle brand,2,region: R83,-0.32546720607342977
+poisson without vehicle brand,2,region: R91,-0.12658916328335454
+poisson without vehicle brand,2,region: R93,-0.06156146104358857
+poisson without vehicle brand,2,region: R94,0.12663787700215398
+poisson without vehicle brand,3,intercept,-2.619857976065953
+poisson without vehicle brand,3,driver age: 18-20,0.05836273849721416
+poisson without vehicle brand,3,driver age: 21-25,-0.28938415065699863
+poisson without vehicle brand,3,driver age: 26-30,-0.48729948294078324
+poisson without vehicle brand,3,driver age: 31-40,-0.34920660991696134
+poisson without vehicle brand,3,driver age: 51-70,-0.05682941248458003
+poisson without vehicle brand,3,driver age: 71+,0.03826867294958553
+poisson without vehicle brand,3,bonus-malus: 51-59,0.2829318231543241
+poisson without vehicle brand,3,bonus-malus: 60-79,0.6301625009395658
+poisson without vehicle brand,3,bonus-malus: 80-99,0.7701260597739346
+poisson without vehicle brand,3,bonus-malus: 100+,1.4926869953982234
+poisson without vehicle brand,3,vehicle age: 0,1.195758084681148
+poisson without vehicle brand,3,vehicle age: 6-10,0.03787528381139497
+poisson without vehicle brand,3,vehicle age: 11-15,-0.14156440588399696
+poisson without vehicle brand,3,vehicle age: 16+,-0.3727192624138411
+poisson without vehicle brand,3,vehicle power: 4,-0.20464970782141978
+poisson without vehicle brand,3,vehicle power: 5,-0.01987306294665865
+poisson without vehicle brand,3,vehicle power: 7,-0.07236731003724571
+poisson without vehicle brand,3,vehicle power: 8,-0.2500245784355517
+poisson without vehicle brand,3,vehicle power: 9+,0.03420829323166763
+poisson without vehicle brand,3,density: log of inhabitants per km2,0.043707595772974145
+poisson without vehicle brand,3,fuel: diesel,-0.06581727183128107
+poisson without vehicle brand,3,region: R11,-0.11299970751261576
+poisson without vehicle brand,3,region: R21,0.0777162162689707
+poisson without vehicle brand,3,region: R22,0.0655948772517936
+poisson without vehicle brand,3,region: R23,-0.08238968244894801
+poisson without vehicle brand,3,region: R25,-0.07317708914412696
+poisson without vehicle brand,3,region: R26,-0.03236029786047868
+poisson without vehicle brand,3,region: R31,-0.17462733781155396
+poisson without vehicle brand,3,region: R41,-0.2916315162139128
+poisson without vehicle brand,3,region: R42,-0.11146370564073671
+poisson without vehicle brand,3,region: R43,-0.18038754337721236
+poisson without vehicle brand,3,region: R52,-0.07585170438738635
+poisson without vehicle brand,3,region: R53,-0.0026472304589546265
+poisson without vehicle brand,3,region: R54,-0.09286383431526736
+poisson without vehicle brand,3,region: R72,-0.12145878725315098
+poisson without vehicle brand,3,region: R73,-0.1358927912671595
+poisson without vehicle brand,3,region: R74,0.10882557492533054
+poisson without vehicle brand,3,region: R82,-0.009356814071429855
+poisson without vehicle brand,3,region: R83,-0.3136665109046826
+poisson without vehicle brand,3,region: R91,-0.09221097615097829
+poisson without vehicle brand,3,region: R93,-0.07797898311038966
+poisson without vehicle brand,3,region: R94,0.07611592577653954
+poisson without vehicle brand,4,intercept,-2.584552840577174
+poisson without vehicle brand,4,driver age: 18-20,0.04419119749617349
+poisson without vehicle brand,4,driver age: 21-25,-0.26580772949486675
+poisson without vehicle brand,4,driver age: 26-30,-0.4836873842583803
+poisson without vehicle brand,4,driver age: 31-40,-0.33807957043128095
+poisson without vehicle brand,4,driver age: 51-70,-0.05123675361308846
+poisson without vehicle brand,4,driver age: 71+,0.023291970763128236
+poisson without vehicle brand,4,bonus-malus: 51-59,0.31253202156786347
+poisson without vehicle brand,4,bonus-malus: 60-79,0.6487302923779578
+poisson without vehicle brand,4,bonus-malus: 80-99,0.7682803963738537
+poisson without vehicle brand,4,bonus-malus: 100+,1.4687061036578393
+poisson without vehicle brand,4,vehicle age: 0,1.1870598990036998
+poisson without vehicle brand,4,vehicle age: 6-10,0.020563762376001292
+poisson without vehicle brand,4,vehicle age: 11-15,-0.14906190780248366
+poisson without vehicle brand,4,vehicle age: 16+,-0.4310379010083077
+poisson without vehicle brand,4,vehicle power: 4,-0.19934064276896932
+poisson without vehicle brand,4,vehicle power: 5,-0.023611006968836907
+poisson without vehicle brand,4,vehicle power: 7,-0.08045894864430253
+poisson without vehicle brand,4,vehicle power: 8,-0.24885241667855884
+poisson without vehicle brand,4,vehicle power: 9+,0.019106759159210382
+poisson without vehicle brand,4,density: log of inhabitants per km2,0.04113197303075234
+poisson without vehicle brand,4,fuel: diesel,-0.08387669726012222
+poisson without vehicle brand,4,region: R11,-0.09145015722556757
+poisson without vehicle brand,4,region: R21,0.1146718790875637
+poisson without vehicle brand,4,region: R22,-0.03943835489221608
+poisson without vehicle brand,4,region: R23,-0.1630770499427699
+poisson without vehicle brand,4,region: R25,-0.03570351158362276
+poisson without vehicle brand,4,region: R26,-0.020607149431510006
+poisson without vehicle brand,4,region: R31,-0.1924642969860403
+poisson without vehicle brand,4,region: R41,-0.2682714565091958
+poisson without vehicle brand,4,region: R42,-0.10880665186827769
+poisson without vehicle brand,4,region: R43,-0.08568550067722457
+poisson without vehicle brand,4,region: R52,-0.07347966861774555
+poisson without vehicle brand,4,region: R53,0.005970500709020457
+poisson without vehicle brand,4,region: R54,-0.09891224534567174
+poisson without vehicle brand,4,region: R72,-0.16561642255661543
+poisson without vehicle brand,4,region: R73,-0.13865933057254817
+poisson without vehicle brand,4,region: R74,0.2058233475446279
+poisson without vehicle brand,4,region: R82,-0.005237008404159418
+poisson without vehicle brand,4,region: R83,-0.33007213780547706
+poisson without vehicle brand,4,region: R91,-0.10667986848848655
+poisson without vehicle brand,4,region: R93,-0.07466019264278687
+poisson without vehicle brand,4,region: R94,0.09969717366774193
+poisson without vehicle brand,all,intercept,-2.593723463021598
+poisson without vehicle brand,all,driver age: 18-20,0.06025469872249894
+poisson without vehicle brand,all,driver age: 21-25,-0.2824442815771492
+poisson without vehicle brand,all,driver age: 26-30,-0.49017661751668445
+poisson without vehicle brand,all,driver age: 31-40,-0.3450264478465463
+poisson without vehicle brand,all,driver age: 51-70,-0.05579943854726351
+poisson without vehicle brand,all,driver age: 71+,0.022366338627990763
+poisson without vehicle brand,all,bonus-malus: 51-59,0.29565626845924214
+poisson without vehicle brand,all,bonus-malus: 60-79,0.6399610493107433
+poisson without vehicle brand,all,bonus-malus: 80-99,0.7689365868106233
+poisson without vehicle brand,all,bonus-malus: 100+,1.4792323330937527
+poisson without vehicle brand,all,vehicle age: 0,1.198156133983235
+poisson without vehicle brand,all,vehicle age: 6-10,0.03250505696953816
+poisson without vehicle brand,all,vehicle age: 11-15,-0.14491551194178243
+poisson without vehicle brand,all,vehicle age: 16+,-0.4021468250317431
+poisson without vehicle brand,all,vehicle power: 4,-0.20133912329441203
+poisson without vehicle brand,all,vehicle power: 5,-0.024650800603932276
+poisson without vehicle brand,all,vehicle power: 7,-0.07442669713051997
+poisson without vehicle brand,all,vehicle power: 8,-0.25826992335201054
+poisson without vehicle brand,all,vehicle power: 9+,0.028914077089739365
+poisson without vehicle brand,all,density: log of inhabitants per km2,0.040255792544029806
+poisson without vehicle brand,all,fuel: diesel,-0.07884513174446046
+poisson without vehicle brand,all,region: R11,-0.09444218730758623
+poisson without vehicle brand,all,region: R21,0.09230601322394891
+poisson without vehicle brand,all,region: R22,0.019938102570082793
+poisson without vehicle brand,all,region: R23,-0.1382652962743261
+poisson without vehicle brand,all,region: R25,-0.04865529968195297
+poisson without vehicle brand,all,region: R26,-0.04978586840194431
+poisson without vehicle brand,all,region: R31,-0.16108384381142163
+poisson without vehicle brand,all,region: R41,-0.2806957012188081
+poisson without vehicle brand,all,region: R42,-0.07762528977801074
+poisson without vehicle brand,all,region: R43,-0.12543308302389028
+poisson without vehicle brand,all,region: R52,-0.06890724724519423
+poisson without vehicle brand,all,region: R53,0.020555620092751376
+poisson without vehicle brand,all,region: R54,-0.10695065563040257
+poisson without vehicle brand,all,region: R72,-0.13615959885241755
+poisson without vehicle brand,all,region: R73,-0.15597546588362138
+poisson without vehicle brand,all,region: R74,0.14165783260534526
+poisson without vehicle brand,all,region: R82,0.0072595945649523794
+poisson without vehicle brand,all,region: R83,-0.3414209304754662
+poisson without vehicle brand,all,region: R91,-0.10570203275931347
+poisson without vehicle brand,all,region: R93,-0.06847191415473135
+poisson without vehicle brand,all,region: R94,0.09367287185750295
+poisson without fuel,0,intercept,-2.5301457857137066
+poisson without fuel,0,driver age: 18-20,0.12353748984104033
+poisson without fuel,0,driver age: 21-25,-0.2665358479648572
+poisson without fuel,0,driver age: 26-30,-0.48145190752623757
+poisson without fuel,0,driver age: 31-40,-0.339642911164588
+poisson without fuel,0,driver age: 51-70,-0.057389470267192676
+poisson without fuel,0,driver age: 71+,0.026020182328836926
+poisson without fuel,0,bonus-malus: 51-59,0.2921655373105355
+poisson without fuel,0,bonus-malus: 60-79,0.6196720173636694
+poisson without fuel,0,bonus-malus: 80-99,0.7458284567533341
+poisson without fuel,0,bonus-malus: 100+,1.450449512757975
+poisson without fuel,0,vehicle age: 0,1.1514679929078497
+poisson without fuel,0,vehicle age: 6-10,0.06049251877525646
+poisson without fuel,0,vehicle age: 11-15,-0.09730881765385695
+poisson without fuel,0,vehicle age: 16+,-0.3475526875426371
+poisson without fuel,0,vehicle power: 4,-0.17300500205389624
+poisson without fuel,0,vehicle power: 5,-0.01925251071775401
+poisson without fuel,0,vehicle power: 7,-0.06030077383636844
+poisson without fuel,0,vehicle power: 8,-0.28106582650255607
+poisson without fuel,0,vehicle power: 9+,0.022637072702415988
+poisson without fuel,0,density: log of inhabitants per km2,0.041405095734205054
+poisson without fuel,0,vehicle brand: B1,-0.14171515885943894
+poisson without fuel,0,vehicle brand: B10,-0.16120013747015435
+poisson without fuel,0,vehicle brand: B11,-0.06790945207976111
+poisson without fuel,0,vehicle brand: B13,-0.09360598252104757
+poisson without fuel,0,vehicle brand: B14,-0.28727473625536126
+poisson without fuel,0,vehicle brand: B2,-0.1560564924394598
+poisson without fuel,0,vehicle brand: B3,-0.13358882833965421
+poisson without fuel,0,vehicle brand: B4,-0.12465147218872333
+poisson without fuel,0,vehicle brand: B5,-0.05778673761513442
+poisson without fuel,0,vehicle brand: B6,-0.14445157598819286
+poisson without fuel,0,region: R11,-0.13809512375625743
+poisson without fuel,0,region: R21,0.0167986237588339
+poisson without fuel,0,region: R22,-0.03380095346893859
+poisson without fuel,0,region: R23,-0.21093296629705544
+poisson without fuel,0,region: R25,-0.044961281740615665
+poisson without fuel,0,region: R26,-0.09084169780914221
+poisson without fuel,0,region: R31,-0.2011237259389993
+poisson without fuel,0,region: R41,-0.32869969384805725
+poisson without fuel,0,region: R42,-0.05371109762440681
+poisson without fuel,0,region: R43,-0.0840414033891493
+poisson without fuel,0,region: R52,-0.06269480765761656
+poisson without fuel,0,region: R53,0.03848210251038398
+poisson without fuel,0,region: R54,-0.1305750666540833
+poisson without fuel,0,region: R72,-0.15631310290186345
+poisson without fuel,0,region: R73,-0.21593342559104364
+poisson without fuel,0,region: R74,0.06673623221636521
+poisson without fuel,0,region: R82,-0.007353407875618856
+poisson without fuel,0,region: R83,-0.37800844725641436
+poisson without fuel,0,region: R91,-0.13262689564209248
+poisson without fuel,0,region: R93,-0.0858765348288671
+poisson without fuel,0,region: R94,0.027722112417257496
+poisson without fuel,1,intercept,-2.578902338315272
+poisson without fuel,1,driver age: 18-20,0.09262662379419256
+poisson without fuel,1,driver age: 21-25,-0.26402289865674017
+poisson without fuel,1,driver age: 26-30,-0.4713572471399038
+poisson without fuel,1,driver age: 31-40,-0.3493180482124641
+poisson without fuel,1,driver age: 51-70,-0.03883688604519533
+poisson without fuel,1,driver age: 71+,0.044051886670463024
+poisson without fuel,1,bonus-malus: 51-59,0.2959356820474004
+poisson without fuel,1,bonus-malus: 60-79,0.6478103380969593
+poisson without fuel,1,bonus-malus: 80-99,0.7646197052754153
+poisson without fuel,1,bonus-malus: 100+,1.4705140634284706
+poisson without fuel,1,vehicle age: 0,1.183291172200583
+poisson without fuel,1,vehicle age: 6-10,0.07704893671846402
+poisson without fuel,1,vehicle age: 11-15,-0.08167956075327898
+poisson without fuel,1,vehicle age: 16+,-0.33749231410880337
+poisson without fuel,1,vehicle power: 4,-0.16463567421768713
+poisson without fuel,1,vehicle power: 5,0.00820979848726279
+poisson without fuel,1,vehicle power: 7,-0.060094863490218066
+poisson without fuel,1,vehicle power: 8,-0.27822987938247284
+poisson without fuel,1,vehicle power: 9+,0.024287832899352223
+poisson without fuel,1,density: log of inhabitants per km2,0.042336294509796785
+poisson without fuel,1,vehicle brand: B1,-0.13528034933186725
+poisson without fuel,1,vehicle brand: B10,-0.12309556399252626
+poisson without fuel,1,vehicle brand: B11,-0.029896701521385433
+poisson without fuel,1,vehicle brand: B13,-0.11170129276530041
+poisson without fuel,1,vehicle brand: B14,-0.29909634770804117
+poisson without fuel,1,vehicle brand: B2,-0.1476687614553426
+poisson without fuel,1,vehicle brand: B3,-0.14760466556468374
+poisson without fuel,1,vehicle brand: B4,-0.15562544175451798
+poisson without fuel,1,vehicle brand: B5,-0.07230970157497833
+poisson without fuel,1,vehicle brand: B6,-0.1358848983027392
+poisson without fuel,1,region: R11,-0.12967798108599884
+poisson without fuel,1,region: R21,0.036719614487816986
+poisson without fuel,1,region: R22,-0.0021656435985796135
+poisson without fuel,1,region: R23,-0.13856429363564393
+poisson without fuel,1,region: R25,-0.0840837174027504
+poisson without fuel,1,region: R26,-0.09276738947204567
+poisson without fuel,1,region: R31,-0.158854774788052
+poisson without fuel,1,region: R41,-0.2793351031428485
+poisson without fuel,1,region: R42,-0.010285450036028581
+poisson without fuel,1,region: R43,-0.1953861786262046
+poisson without fuel,1,region: R52,-0.08153886322323768
+poisson without fuel,1,region: R53,0.03426799361798316
+poisson without fuel,1,region: R54,-0.1288741647361496
+poisson without fuel,1,region: R72,-0.15771426142832712
+poisson without fuel,1,region: R73,-0.22374891544790312
+poisson without fuel,1,region: R74,0.060190947937988286
+poisson without fuel,1,region: R82,0.015145052288185721
+poisson without fuel,1,region: R83,-0.46744900543353374
+poisson without fuel,1,region: R91,-0.135134899219115
+poisson without fuel,1,region: R93,-0.09818139972953722
+poisson without fuel,1,region: R94,0.018992521601833276
+poisson without fuel,2,intercept,-2.533707241202334
+poisson without fuel,2,driver age: 18-20,0.057628766851438466
+poisson without fuel,2,driver age: 21-25,-0.28909123062337483
+poisson without fuel,2,driver age: 26-30,-0.5101265954186394
+poisson without fuel,2,driver age: 31-40,-0.3503335988655561
+poisson without fuel,2,driver age: 51-70,-0.06804608708630464
+poisson without fuel,2,driver age: 71+,0.04259797386908744
+poisson without fuel,2,bonus-malus: 51-59,0.29166130315930405
+poisson without fuel,2,bonus-malus: 60-79,0.6453193497708043
+poisson without fuel,2,bonus-malus: 80-99,0.7760952362329785
+poisson without fuel,2,bonus-malus: 100+,1.478240156748005
+poisson without fuel,2,vehicle age: 0,1.1870239220036196
+poisson without fuel,2,vehicle age: 6-10,0.06306051658503668
+poisson without fuel,2,vehicle age: 11-15,-0.11317144371849862
+poisson without fuel,2,vehicle age: 16+,-0.3504690497312185
+poisson without fuel,2,vehicle power: 4,-0.2100368442489579
+poisson without fuel,2,vehicle power: 5,-0.026157441990391946
+poisson without fuel,2,vehicle power: 7,-0.08272484843691516
+poisson without fuel,2,vehicle power: 8,-0.3068564552528267
+poisson without fuel,2,vehicle power: 9+,0.01683981554073185
+poisson without fuel,2,density: log of inhabitants per km2,0.04279051128981618
+poisson without fuel,2,vehicle brand: B1,-0.13976649425437718
+poisson without fuel,2,vehicle brand: B10,-0.13112621486392065
+poisson without fuel,2,vehicle brand: B11,-0.040645316415970315
+poisson without fuel,2,vehicle brand: B13,-0.06824982045464031
+poisson without fuel,2,vehicle brand: B14,-0.23418777187760503
+poisson without fuel,2,vehicle brand: B2,-0.1431427720153303
+poisson without fuel,2,vehicle brand: B3,-0.14802996689165934
+poisson without fuel,2,vehicle brand: B4,-0.1441827806277267
+poisson without fuel,2,vehicle brand: B5,-0.08470264114780712
+poisson without fuel,2,vehicle brand: B6,-0.12492165329608078
+poisson without fuel,2,region: R11,-0.13377934060135058
+poisson without fuel,2,region: R21,0.018970733527227217
+poisson without fuel,2,region: R22,-0.010509037108809887
+poisson without fuel,2,region: R23,-0.17664423081946878
+poisson without fuel,2,region: R25,-0.04777133518833222
+poisson without fuel,2,region: R26,-0.08600685065568252
+poisson without fuel,2,region: R31,-0.1893361574858281
+poisson without fuel,2,region: R41,-0.2931683032712173
+poisson without fuel,2,region: R42,-0.1733659379444316
+poisson without fuel,2,region: R43,-0.20058003383900785
+poisson without fuel,2,region: R52,-0.08931749373823665
+poisson without fuel,2,region: R53,0.01615864288676472
+poisson without fuel,2,region: R54,-0.11892197852668317
+poisson without fuel,2,region: R72,-0.171866874186367
+poisson without fuel,2,region: R73,-0.21041277958928487
+poisson without fuel,2,region: R74,0.15051504535289664
+poisson without fuel,2,region: R82,0.0013481234135578057
+poisson without fuel,2,region: R83,-0.37600274453100563
+poisson without fuel,2,region: R91,-0.15821541028308958
+poisson without fuel,2,region: R93,-0.0890595815496332
+poisson without fuel,2,region: R94,0.0687432280982261
+poisson without fuel,3,intercept,-2.5726609227979
+poisson without fuel,3,driver age: 18-20,0.08144965467245611
+poisson without fuel,3,driver age: 21-25,-0.2781512329814491
+poisson without fuel,3,driver age: 26-30,-0.48159033770971643
+poisson without fuel,3,driver age: 31-40,-0.3491810308991572
+poisson without fuel,3,driver age: 51-70,-0.05542883674529437
+poisson without fuel,3,driver age: 71+,0.054720189218102226
+poisson without fuel,3,bonus-malus: 51-59,0.2820233331838115
+poisson without fuel,3,bonus-malus: 60-79,0.6276291873642181
+poisson without fuel,3,bonus-malus: 80-99,0.7639073398538861
+poisson without fuel,3,bonus-malus: 100+,1.4811439746528137
+poisson without fuel,3,vehicle age: 0,1.1687922020104557
+poisson without fuel,3,vehicle age: 6-10,0.06891930516672891
+poisson without fuel,3,vehicle age: 11-15,-0.09810015843669362
+poisson without fuel,3,vehicle age: 16+,-0.32126043263830667
+poisson without fuel,3,vehicle power: 4,-0.19052698186390774
+poisson without fuel,3,vehicle power: 5,-0.007431079971472927
+poisson without fuel,3,vehicle power: 7,-0.06772908147564152
+poisson without fuel,3,vehicle power: 8,-0.2707645334707587
+poisson without fuel,3,vehicle power: 9+,0.02501397463509011
+poisson without fuel,3,density: log of inhabitants per km2,0.046633402965946744
+poisson without fuel,3,vehicle brand: B1,-0.13164446816926856
+poisson without fuel,3,vehicle brand: B10,-0.1204414916567761
+poisson without fuel,3,vehicle brand: B11,-0.07644967054646193
+poisson without fuel,3,vehicle brand: B13,-0.10441132443417114
+poisson without fuel,3,vehicle brand: B14,-0.24408112906693946
+poisson without fuel,3,vehicle brand: B2,-0.13616085608859296
+poisson without fuel,3,vehicle brand: B3,-0.1282180588723074
+poisson without fuel,3,vehicle brand: B4,-0.14913809069629286
+poisson without fuel,3,vehicle brand: B5,-0.07854045211010251
+poisson without fuel,3,vehicle brand: B6,-0.14257322143091025
+poisson without fuel,3,region: R11,-0.1557218085298434
+poisson without fuel,3,region: R21,0.017433146997481073
+poisson without fuel,3,region: R22,0.027392791921368693
+poisson without fuel,3,region: R23,-0.10684008206408417
+poisson without fuel,3,region: R25,-0.08519566351803907
+poisson without fuel,3,region: R26,-0.056132952345158346
+poisson without fuel,3,region: R31,-0.2086096829195171
+poisson without fuel,3,region: R41,-0.30882032967210477
+poisson without fuel,3,region: R42,-0.12744388012894167
+poisson without fuel,3,region: R43,-0.21371030065927432
+poisson without fuel,3,region: R52,-0.08773341691770704
+poisson without fuel,3,region: R53,-0.005600704368341985
+poisson without fuel,3,region: R54,-0.1028020910445399
+poisson without fuel,3,region: R72,-0.149659474695064
+poisson without fuel,3,region: R73,-0.18126809400570423
+poisson without fuel,3,region: R74,0.07394243929585893
+poisson without fuel,3,region: R82,-0.022148209224397135
+poisson without fuel,3,region: R83,-0.3619249605015042
+poisson without fuel,3,region: R91,-0.12187446634588381
+poisson without fuel,3,region: R93,-0.10381959607515798
+poisson without fuel,3,region: R94,0.01866952479666546
+poisson without fuel,4,intercept,-2.5477658139021213
+poisson without fuel,4,driver age: 18-20,0.07053282357849631
+poisson without fuel,4,driver age: 21-25,-0.2524754709176466
+poisson without fuel,4,driver age: 26-30,-0.4770260346194271
+poisson without fuel,4,driver age: 31-40,-0.3379516611519104
+poisson without fuel,4,driver age: 51-70,-0.0487645098918488
+poisson without fuel,4,driver age: 71+,0.04381069247471321
+poisson without fuel,4,bonus-malus: 51-59,0.31162738789655364
+poisson without fuel,4,bonus-malus: 60-79,0.6459065567191152
+poisson without fuel,4,bonus-malus: 80-99,0.7616295163674818
+poisson without fuel,4,bonus-malus: 100+,1.4565569461339751
+poisson without fuel,4,vehicle age: 0,1.1581294205577453
+poisson without fuel,4,vehicle age: 6-10,0.052661537360347434
+poisson without fuel,4,vehicle age: 11-15,-0.10185598186539402
+poisson without fuel,4,vehicle age: 16+,-0.3727908362810639
+poisson without fuel,4,vehicle power: 4,-0.1795612246651174
+poisson without fuel,4,vehicle power: 5,-0.007635810075070895
+poisson without fuel,4,vehicle power: 7,-0.0728498589560483
+poisson without fuel,4,vehicle power: 8,-0.2716805155575269
+poisson without fuel,4,vehicle power: 9+,0.015193600719859939
+poisson without fuel,4,density: log of inhabitants per km2,0.04480057682855723
+poisson without fuel,4,vehicle brand: B1,-0.13859493543088383
+poisson without fuel,4,vehicle brand: B10,-0.17422014714015147
+poisson without fuel,4,vehicle brand: B11,-0.06532850075640409
+poisson without fuel,4,vehicle brand: B13,-0.06804890557872108
+poisson without fuel,4,vehicle brand: B14,-0.30788239239560417
+poisson without fuel,4,vehicle brand: B2,-0.1432199294167416
+poisson without fuel,4,vehicle brand: B3,-0.1534623314543182
+poisson without fuel,4,vehicle brand: B4,-0.15186530160280262
+poisson without fuel,4,vehicle brand: B5,-0.08100242870398651
+poisson without fuel,4,vehicle brand: B6,-0.13549255769502128
+poisson without fuel,4,region: R11,-0.1368678346238822
+poisson without fuel,4,region: R21,0.04788268280353075
+poisson without fuel,4,region: R22,-0.07909331669505869
+poisson without fuel,4,region: R23,-0.18977403885009905
+poisson without fuel,4,region: R25,-0.04953312401352612
+poisson without fuel,4,region: R26,-0.04495912871499134
+poisson without fuel,4,region: R31,-0.2293507262638568
+poisson without fuel,4,region: R41,-0.2873432711013885
+poisson without fuel,4,region: R42,-0.1288080304128696
+poisson without fuel,4,region: R43,-0.12053438535664038
+poisson without fuel,4,region: R52,-0.08594445746481834
+poisson without fuel,4,region: R53,0.003658734517686134
+poisson without fuel,4,region: R54,-0.11055215465756586
+poisson without fuel,4,region: R72,-0.19513106298948724
+poisson without fuel,4,region: R73,-0.18707813460291015
+poisson without fuel,4,region: R74,0.16819482288477583
+poisson without fuel,4,region: R82,-0.018976096534008214
+poisson without fuel,4,region: R83,-0.3833100817334855
+poisson without fuel,4,region: R91,-0.13858755491211897
+poisson without fuel,4,region: R93,-0.10178339043353019
+poisson without fuel,4,region: R94,0.03984215879351884
+poisson without fuel,all,intercept,-2.5526661019009955
+poisson without fuel,all,driver age: 18-20,0.08531269993586603
+poisson without fuel,all,driver age: 21-25,-0.26999013455864784
+poisson without fuel,all,driver age: 26-30,-0.48426876604959385
+poisson without fuel,all,driver age: 31-40,-0.34522757824142664
+poisson without fuel,all,driver age: 51-70,-0.05365252404448147
+poisson without fuel,all,driver age: 71+,0.04226686532596493
+poisson without fuel,all,bonus-malus: 51-59,0.2947783222979301
+poisson without fuel,all,bonus-malus: 60-79,0.6372929210533756
+poisson without fuel,all,bonus-malus: 80-99,0.7624043619095768
+poisson without fuel,all,bonus-malus: 100+,1.4674625584297847
+poisson without fuel,all,vehicle age: 0,1.1697833460936673
+poisson without fuel,all,vehicle age: 6-10,0.06442802044231075
+poisson without fuel,all,vehicle age: 11-15,-0.09840190735717336
+poisson without fuel,all,vehicle age: 16+,-0.34585746156850483
+poisson without fuel,all,vehicle power: 4,-0.18355543941169497
+poisson without fuel,all,vehicle power: 5,-0.010411338071387473
+poisson without fuel,all,vehicle power: 7,-0.0687250889295297
+poisson without fuel,all,vehicle power: 8,-0.2815964642724966
+poisson without fuel,all,vehicle power: 9+,0.020728836504262504
+poisson without fuel,all,density: log of inhabitants per km2,0.04360813526058877
+poisson without fuel,all,vehicle brand: B1,-0.13743623717342995
+poisson without fuel,all,vehicle brand: B10,-0.1418619553300243
+poisson without fuel,all,vehicle brand: B11,-0.055885864537205295
+poisson without fuel,all,vehicle brand: B13,-0.08909490891834893
+poisson without fuel,all,vehicle brand: B14,-0.2740909666320987
+poisson without fuel,all,vehicle brand: B2,-0.14524476713284534
+poisson without fuel,all,vehicle brand: B3,-0.14217152572785063
+poisson without fuel,all,vehicle brand: B4,-0.14503750271561722
+poisson without fuel,all,vehicle brand: B5,-0.07480548230956455
+poisson without fuel,all,vehicle brand: B6,-0.13669244286829976
+poisson without fuel,all,region: R11,-0.13881766139082008
+poisson without fuel,all,region: R21,0.027823658591104514
+poisson without fuel,all,region: R22,-0.019289059693357417
+poisson without fuel,all,region: R23,-0.1640252824542691
+poisson without fuel,all,region: R25,-0.06218281195332223
+poisson without fuel,all,region: R26,-0.07373790488554281
+poisson without fuel,all,region: R31,-0.1973078517894496
+poisson without fuel,all,region: R41,-0.29936333769640294
+poisson without fuel,all,region: R42,-0.09676495739955294
+poisson without fuel,all,region: R43,-0.16104079913739897
+poisson without fuel,all,region: R52,-0.08145809692208146
+poisson without fuel,all,region: R53,0.017467434125318843
+poisson without fuel,all,region: R54,-0.11821975112781026
+poisson without fuel,all,region: R72,-0.16601342449125378
+poisson without fuel,all,region: R73,-0.20362630305849777
+poisson without fuel,all,region: R74,0.10507832855319486
+poisson without fuel,all,region: R82,-0.0064352759739814795
+poisson without fuel,all,region: R83,-0.3927066903596338
+poisson without fuel,all,region: R91,-0.13725502719959404
+poisson without fuel,all,region: R93,-0.0957684055280088
+poisson without fuel,all,region: R94,0.034867144766339536
+poisson without region,0,intercept,-2.5042868855057185
+poisson without region,0,driver age: 18-20,0.11739817447924043
+poisson without region,0,driver age: 21-25,-0.26709967709870475
+poisson without region,0,driver age: 26-30,-0.4839332116137187
+poisson without region,0,driver age: 31-40,-0.33880613268182097
+poisson without region,0,driver age: 51-70,-0.05811263516299105
+poisson without region,0,driver age: 71+,0.009542615315795405
+poisson without region,0,bonus-malus: 51-59,0.2935297419536143
+poisson without region,0,bonus-malus: 60-79,0.6188865716499603
+poisson without region,0,bonus-malus: 80-99,0.7424667974457785
+poisson without region,0,bonus-malus: 100+,1.4443801477385074
+poisson without region,0,vehicle age: 0,1.1503455753708094
+poisson without region,0,vehicle age: 6-10,0.06115126307837265
+poisson without region,0,vehicle age: 11-15,-0.10084092019859908
+poisson without region,0,vehicle age: 16+,-0.36023045460371494
+poisson without region,0,vehicle power: 4,-0.20798322314855258
+poisson without region,0,vehicle power: 5,-0.035348574425841654
+poisson without region,0,vehicle power: 7,-0.07482676656198671
+poisson without region,0,vehicle power: 8,-0.27686324822536895
+poisson without region,0,vehicle power: 9+,0.003928759419331946
+poisson without region,0,density: log of inhabitants per km2,0.029756656197295856
+poisson without region,0,vehicle brand: B1,-0.09291719999406864
+poisson without region,0,vehicle brand: B10,-0.09209430794566854
+poisson without region,0,vehicle brand: B11,-0.019667290346468143
+poisson without region,0,vehicle brand: B13,-0.05151619195435187
+poisson without region,0,vehicle brand: B14,-0.2604646657329613
+poisson without region,0,vehicle brand: B2,-0.10405599946773689
+poisson without region,0,vehicle brand: B3,-0.0852252171096717
+poisson without region,0,vehicle brand: B4,-0.08678966665196734
+poisson without region,0,vehicle brand: B5,-0.015944502590001568
+poisson without region,0,vehicle brand: B6,-0.10677230743179557
+poisson without region,0,fuel: diesel,-0.08360706017019942
+poisson without region,1,intercept,-2.563017574510936
+poisson without region,1,driver age: 18-20,0.08646700522366418
+poisson without region,1,driver age: 21-25,-0.26388385150520055
+poisson without region,1,driver age: 26-30,-0.4725241429921122
+poisson without region,1,driver age: 31-40,-0.34755632361007827
+poisson without region,1,driver age: 51-70,-0.0395455012385294
+poisson without region,1,driver age: 71+,0.02827059746877357
+poisson without region,1,bonus-malus: 51-59,0.29634647532403385
+poisson without region,1,bonus-malus: 60-79,0.6474077926725762
+poisson without region,1,bonus-malus: 80-99,0.7613047055479513
+poisson without region,1,bonus-malus: 100+,1.4657986267706216
+poisson without region,1,vehicle age: 0,1.1810729594172071
+poisson without region,1,vehicle age: 6-10,0.07782325036767598
+poisson without region,1,vehicle age: 11-15,-0.08473248421325963
+poisson without region,1,vehicle age: 16+,-0.34968933929441076
+poisson without region,1,vehicle power: 4,-0.19779247311704903
+poisson without region,1,vehicle power: 5,-0.0069392510524586715
+poisson without region,1,vehicle power: 7,-0.07358369305377098
+poisson without region,1,vehicle power: 8,-0.27578221626994476
+poisson without region,1,vehicle power: 9+,0.006260665443510156
+poisson without region,1,density: log of inhabitants per km2,0.03239530153116089
+poisson without region,1,vehicle brand: B1,-0.0874203007478976
+poisson without region,1,vehicle brand: B10,-0.05736336425111414
+poisson without region,1,vehicle brand: B11,0.016870243775984898
+poisson without region,1,vehicle brand: B13,-0.06992120747283842
+poisson without region,1,vehicle brand: B14,-0.27189919570667115
+poisson without region,1,vehicle brand: B2,-0.09690492266448868
+poisson without region,1,vehicle brand: B3,-0.10022130344784949
+poisson without region,1,vehicle brand: B4,-0.11655087921376896
+poisson without region,1,vehicle brand: B5,-0.030962620629565785
+poisson without region,1,vehicle brand: B6,-0.09874689754880155
+poisson without region,1,fuel: diesel,-0.07878356778462672
+poisson without region,2,intercept,-2.51729058827539
+poisson without region,2,driver age: 18-20,0.052671047163242356
+poisson without region,2,driver age: 21-25,-0.2895774129642512
+poisson without region,2,driver age: 26-30,-0.5120834391798907
+poisson without region,2,driver age: 31-40,-0.3498872156258805
+poisson without region,2,driver age: 51-70,-0.06889344960231876
+poisson without region,2,driver age: 71+,0.028099272200601134
+poisson without region,2,bonus-malus: 51-59,0.29307601815068535
+poisson without region,2,bonus-malus: 60-79,0.6454297101879857
+poisson without region,2,bonus-malus: 80-99,0.7728781461335757
+poisson without region,2,bonus-malus: 100+,1.4735672309434737
+poisson without region,2,vehicle age: 0,1.18522672647068
+poisson without region,2,vehicle age: 6-10,0.06421676418425182
+poisson without region,2,vehicle age: 11-15,-0.11526274044297483
+poisson without region,2,vehicle age: 16+,-0.3603885395299033
+poisson without region,2,vehicle power: 4,-0.24063048553435507
+poisson without region,2,vehicle power: 5,-0.04032034684204418
+poisson without region,2,vehicle power: 7,-0.09552666267412108
+poisson without region,2,vehicle power: 8,-0.3030042676882772
+poisson without region,2,vehicle power: 9+,-8.186164468235281e-05
+poisson without region,2,density: log of inhabitants per km2,0.031802108240274705
+poisson without region,2,vehicle brand: B1,-0.09399025902416
+poisson without region,2,vehicle brand: B10,-0.06860089441062026
+poisson without region,2,vehicle brand: B11,0.004450904420510286
+poisson without region,2,vehicle brand: B13,-0.02910272247968393
+poisson without region,2,vehicle brand: B14,-0.20677466536933906
+poisson without region,2,vehicle brand: B2,-0.09536738735821929
+poisson without region,2,vehicle brand: B3,-0.1038056506525264
+poisson without region,2,vehicle brand: B4,-0.10945350742077077
+poisson without region,2,vehicle brand: B5,-0.04816241935100653
+poisson without region,2,vehicle brand: B6,-0.09073386632787821
+poisson without region,2,fuel: diesel,-0.0734565142399149
+poisson without region,3,intercept,-2.5564624081930387
+poisson without region,3,driver age: 18-20,0.07810857103999175
+poisson without region,3,driver age: 21-25,-0.2770647679361985
+poisson without region,3,driver age: 26-30,-0.4827902470748882
+poisson without region,3,driver age: 31-40,-0.3479004825005876
+poisson without region,3,driver age: 51-70,-0.055163607351431936
+poisson without region,3,driver age: 71+,0.04402331464741209
+poisson without region,3,bonus-malus: 51-59,0.2831163768264664
+poisson without region,3,bonus-malus: 60-79,0.6277439796392021
+poisson without region,3,bonus-malus: 80-99,0.7613860732919412
+poisson without region,3,bonus-malus: 100+,1.4768393934921384
+poisson without region,3,vehicle age: 0,1.1670510947051798
+poisson without region,3,vehicle age: 6-10,0.0701223584427987
+poisson without region,3,vehicle age: 11-15,-0.09870871270763276
+poisson without region,3,vehicle age: 16+,-0.3278601975755442
+poisson without region,3,vehicle power: 4,-0.21715092767986843
+poisson without region,3,vehicle power: 5,-0.02023956848336091
+poisson without region,3,vehicle power: 7,-0.0786726103450885
+poisson without region,3,vehicle power: 8,-0.2690800569353262
+poisson without region,3,vehicle power: 9+,0.00988152133318743
+poisson without region,3,density: log of inhabitants per km2,0.03357013227886329
+poisson without region,3,vehicle brand: B1,-0.08750514423004241
+poisson without region,3,vehicle brand: B10,-0.062021809915997164
+poisson without region,3,vehicle brand: B11,-0.03480265410738852
+poisson without region,3,vehicle brand: B13,-0.06561125211033883
+poisson without region,3,vehicle brand: B14,-0.21717451496599985
+poisson without region,3,vehicle brand: B2,-0.08989722936719058
+poisson without region,3,vehicle brand: B3,-0.08580689452790918
+poisson without region,3,vehicle brand: B4,-0.11534310308874968
+poisson without region,3,vehicle brand: B5,-0.04152255763798323
+poisson without region,3,vehicle brand: B6,-0.10909893781462171
+poisson without region,3,fuel: diesel,-0.06316992641519678
+poisson without region,4,intercept,-2.5227082044289224
+poisson without region,4,driver age: 18-20,0.06520834311616416
+poisson without region,4,driver age: 21-25,-0.25449092792623323
+poisson without region,4,driver age: 26-30,-0.47984094403188743
+poisson without region,4,driver age: 31-40,-0.3375404649112212
+poisson without region,4,driver age: 51-70,-0.04911723852443
+poisson without region,4,driver age: 71+,0.028501023409558762
+poisson without region,4,bonus-malus: 51-59,0.31273349262921335
+poisson without region,4,bonus-malus: 60-79,0.6460921114002072
+poisson without region,4,bonus-malus: 80-99,0.7587755638406887
+poisson without region,4,bonus-malus: 100+,1.45132050668565
+poisson without region,4,vehicle age: 0,1.1569376542479075
+poisson without region,4,vehicle age: 6-10,0.053310093188743746
+poisson without region,4,vehicle age: 11-15,-0.10445268310510529
+poisson without region,4,vehicle age: 16+,-0.38289061200254115
+poisson without region,4,vehicle power: 4,-0.21413242932743548
+poisson without region,4,vehicle power: 5,-0.023854485367168093
+poisson without region,4,vehicle power: 7,-0.08708418513393062
+poisson without region,4,vehicle power: 8,-0.2678726191862187
+poisson without region,4,vehicle power: 9+,-0.003945128530249182
+poisson without region,4,density: log of inhabitants per km2,0.032252650072498425
+poisson without region,4,vehicle brand: B1,-0.0933181035039506
+poisson without region,4,vehicle brand: B10,-0.10951568424370275
+poisson without region,4,vehicle brand: B11,-0.020931416899662252
+poisson without region,4,vehicle brand: B13,-0.030183702451390827
+poisson without region,4,vehicle brand: B14,-0.2808202059149686
+poisson without region,4,vehicle brand: B2,-0.09455470549469969
+poisson without region,4,vehicle brand: B3,-0.10980633028741489
+poisson without region,4,vehicle brand: B4,-0.11718676603147946
+poisson without region,4,vehicle brand: B5,-0.04354534720861598
+poisson without region,4,vehicle brand: B6,-0.10086987429847064
+poisson without region,4,fuel: diesel,-0.08053637251154142
+poisson without region,all,intercept,-2.532739414401077
+poisson without region,all,driver age: 18-20,0.08006861206215903
+poisson without region,all,driver age: 21-25,-0.2703629962168605
+poisson without region,all,driver age: 26-30,-0.4862004660393444
+poisson without region,all,driver age: 31-40,-0.34428542120790595
+poisson without region,all,driver age: 51-70,-0.05412562229579941
+poisson without region,all,driver age: 71+,0.027676560162475872
+poisson without region,all,bonus-malus: 51-59,0.2958467848451197
+poisson without region,all,bonus-malus: 60-79,0.6371437813160529
+poisson without region,all,bonus-malus: 80-99,0.7593490188246041
+poisson without region,all,bonus-malus: 100+,1.4624285737894231
+poisson without region,all,vehicle age: 0,1.168176161902839
+poisson without region,all,vehicle age: 6-10,0.06530051333776594
+poisson without region,all,vehicle age: 11-15,-0.10079378310625767
+poisson without region,all,vehicle age: 16+,-0.35615517850297407
+poisson without region,all,vehicle power: 4,-0.2155391083379994
+poisson without region,all,vehicle power: 5,-0.02530911109962497
+poisson without region,all,vehicle power: 7,-0.08193907361965458
+poisson without region,all,vehicle power: 8,-0.2784322037803226
+poisson without region,all,vehicle power: 9+,0.0031473537551896602
+poisson without region,all,density: log of inhabitants per km2,0.03196239784169573
+poisson without region,all,vehicle brand: B1,-0.09103514454158873
+poisson without region,all,vehicle brand: B10,-0.07775256090296138
+poisson without region,all,vehicle brand: B11,-0.010674036449556798
+poisson without region,all,vehicle brand: B13,-0.0490991879311966
+poisson without region,all,vehicle brand: B14,-0.24716800171637637
+poisson without region,all,vehicle brand: B2,-0.0961380486121889
+poisson without region,all,vehicle brand: B3,-0.09696232856194442
+poisson without region,all,vehicle brand: B4,-0.10901256589396693
+poisson without region,all,vehicle brand: B5,-0.03598540926614943
+poisson without region,all,vehicle brand: B6,-0.1012398949442468
+poisson without region,all,fuel: diesel,-0.07592386416304416
+logistic all,0,intercept,-2.9685789959404683
+logistic all,0,driver age: 18-20,-0.14632059106566564
+logistic all,0,driver age: 21-25,-0.389728806873585
+logistic all,0,driver age: 26-30,-0.5734938379428814
+logistic all,0,driver age: 31-40,-0.38239520203211275
+logistic all,0,driver age: 51-70,-0.0045560905657827735
+logistic all,0,driver age: 71+,0.18415505683353123
+logistic all,0,bonus-malus: 51-59,0.23625250988495144
+logistic all,0,bonus-malus: 60-79,0.4828593315601563
+logistic all,0,bonus-malus: 80-99,0.538588928032822
+logistic all,0,bonus-malus: 100+,1.1603461105792325
+logistic all,0,vehicle age: 0,0.7411470696249628
+logistic all,0,vehicle age: 6-10,0.10036548832173925
+logistic all,0,vehicle age: 11-15,-0.09513278115333727
+logistic all,0,vehicle age: 16+,-0.38588266100561386
+logistic all,0,vehicle power: 4,-0.22602282061386084
+logistic all,0,vehicle power: 5,-0.024093739630508832
+logistic all,0,vehicle power: 7,-0.09632965871477733
+logistic all,0,vehicle power: 8,-0.33404591072740975
+logistic all,0,vehicle power: 9+,-0.04922758449335191
+logistic all,0,density: log of inhabitants per km2,0.02592444428679678
+logistic all,0,vehicle brand: B1,0.07628517385548067
+logistic all,0,vehicle brand: B10,0.05052303454126877
+logistic all,0,vehicle brand: B11,0.07725604787894168
+logistic all,0,vehicle brand: B13,0.09547951515853016
+logistic all,0,vehicle brand: B14,-0.07895928557682835
+logistic all,0,vehicle brand: B2,0.08795776966351199
+logistic all,0,vehicle brand: B3,0.0776390742222633
+logistic all,0,vehicle brand: B4,0.08756748689033392
+logistic all,0,vehicle brand: B5,0.17677712839485715
+logistic all,0,vehicle brand: B6,0.051454278309347456
+logistic all,0,fuel: diesel,-0.14939832842977904
+logistic all,0,region: R11,-0.30160940036709105
+logistic all,0,region: R21,-0.20502806986038996
+logistic all,0,region: R22,-0.17028040783562273
+logistic all,0,region: R23,-0.6892476618372615
+logistic all,0,region: R25,-0.04987820079408601
+logistic all,0,region: R26,-0.2754210059147175
+logistic all,0,region: R31,-0.47041651018034014
+logistic all,0,region: R41,-0.31608273280431465
+logistic all,0,region: R42,-0.12171487651346256
+logistic all,0,region: R43,-0.28952211191616806
+logistic all,0,region: R52,-0.13675654360867387
+logistic all,0,region: R53,0.09766397155617576
+logistic all,0,region: R54,-0.18124216135886426
+logistic all,0,region: R72,-0.4018105695297717
+logistic all,0,region: R73,-0.4853081006536162
+logistic all,0,region: R74,-0.05887242908646992
+logistic all,0,region: R82,-0.09683870303731762
+logistic all,0,region: R83,-0.5527164448423699
+logistic all,0,region: R91,-0.47356881549198626
+logistic all,0,region: R93,-0.3279222361826098
+logistic all,0,region: R94,-0.2663116605789027
+logistic all,1,intercept,-3.0098283682856444
+logistic all,1,driver age: 18-20,-0.16737284327875876
+logistic all,1,driver age: 21-25,-0.3825290211970129
+logistic all,1,driver age: 26-30,-0.5588553293195737
+logistic all,1,driver age: 31-40,-0.39292585887308934
+logistic all,1,driver age: 51-70,0.014921471324032825
+logistic all,1,driver age: 71+,0.19862366605803145
+logistic all,1,bonus-malus: 51-59,0.2344095781527747
+logistic all,1,bonus-malus: 60-79,0.5086668430829021
+logistic all,1,bonus-malus: 80-99,0.551346193367493
+logistic all,1,bonus-malus: 100+,1.172786175868744
+logistic all,1,vehicle age: 0,0.7756251150004551
+logistic all,1,vehicle age: 6-10,0.11405588627589032
+logistic all,1,vehicle age: 11-15,-0.07855216014971922
+logistic all,1,vehicle age: 16+,-0.3753422664688125
+logistic all,1,vehicle power: 4,-0.2160223046849474
+logistic all,1,vehicle power: 5,0.004004441119196278
+logistic all,1,vehicle power: 7,-0.09818699398356805
+logistic all,1,vehicle power: 8,-0.34046608139252915
+logistic all,1,vehicle power: 9+,-0.053713182079707655
+logistic all,1,density: log of inhabitants per km2,0.026282586237258238
+logistic all,1,vehicle brand: B1,0.08157987258198539
+logistic all,1,vehicle brand: B10,0.08987314700671557
+logistic all,1,vehicle brand: B11,0.11901848413737336
+logistic all,1,vehicle brand: B13,0.08439605547483048
+logistic all,1,vehicle brand: B14,-0.07604669382086351
+logistic all,1,vehicle brand: B2,0.0922177124188255
+logistic all,1,vehicle brand: B3,0.052915873062808184
+logistic all,1,vehicle brand: B4,0.05959684634502634
+logistic all,1,vehicle brand: B5,0.1539704073587362
+logistic all,1,vehicle brand: B6,0.056438354629222254
+logistic all,1,fuel: diesel,-0.14591092460933552
+logistic all,1,region: R11,-0.2903632474380023
+logistic all,1,region: R21,-0.1975849415761567
+logistic all,1,region: R22,-0.13484020619501774
+logistic all,1,region: R23,-0.6321520101489624
+logistic all,1,region: R25,-0.06753404729344516
+logistic all,1,region: R26,-0.29018397868954965
+logistic all,1,region: R31,-0.41795240689266744
+logistic all,1,region: R41,-0.2735192817955601
+logistic all,1,region: R42,-0.058029665350496765
+logistic all,1,region: R43,-0.45957492177559406
+logistic all,1,region: R52,-0.16059853648962408
+logistic all,1,region: R53,0.09088562369861401
+logistic all,1,region: R54,-0.17157815336850066
+logistic all,1,region: R72,-0.4097161534165546
+logistic all,1,region: R73,-0.49314338396395674
+logistic all,1,region: R74,-0.0872547540919416
+logistic all,1,region: R82,-0.07313841026529447
+logistic all,1,region: R83,-0.6440786254360571
+logistic all,1,region: R91,-0.4709499311150187
+logistic all,1,region: R93,-0.3359165547513136
+logistic all,1,region: R94,-0.27015284287074576
+logistic all,2,intercept,-2.9772959661345078
+logistic all,2,driver age: 18-20,-0.2030729612850193
+logistic all,2,driver age: 21-25,-0.4137698503679525
+logistic all,2,driver age: 26-30,-0.6035501125798615
+logistic all,2,driver age: 31-40,-0.3972605068209036
+logistic all,2,driver age: 51-70,-0.012554687768563036
+logistic all,2,driver age: 71+,0.20324110810790355
+logistic all,2,bonus-malus: 51-59,0.23488673315487743
+logistic all,2,bonus-malus: 60-79,0.5083688415773641
+logistic all,2,bonus-malus: 80-99,0.5711827327898541
+logistic all,2,bonus-malus: 100+,1.1909273589756606
+logistic all,2,vehicle age: 0,0.7787040337877598
+logistic all,2,vehicle age: 6-10,0.10490745275694577
+logistic all,2,vehicle age: 11-15,-0.1051648946517982
+logistic all,2,vehicle age: 16+,-0.3914566946583086
+logistic all,2,vehicle power: 4,-0.2578657898732788
+logistic all,2,vehicle power: 5,-0.029269197064727883
+logistic all,2,vehicle power: 7,-0.11721173874165543
+logistic all,2,vehicle power: 8,-0.35561782006286474
+logistic all,2,vehicle power: 9+,-0.056321468487916006
+logistic all,2,density: log of inhabitants per km2,0.02730651865874725
+logistic all,2,vehicle brand: B1,0.07712273044508569
+logistic all,2,vehicle brand: B10,0.07734839729136112
+logistic all,2,vehicle brand: B11,0.10034008446491866
+logistic all,2,vehicle brand: B13,0.13145614696500107
+logistic all,2,vehicle brand: B14,-0.017554570871952505
+logistic all,2,vehicle brand: B2,0.09414499528427318
+logistic all,2,vehicle brand: B3,0.0594107902686286
+logistic all,2,vehicle brand: B4,0.05606298413824807
+logistic all,2,vehicle brand: B5,0.1442810196460636
+logistic all,2,vehicle brand: B6,0.06899797098636637
+logistic all,2,fuel: diesel,-0.1408239612228634
+logistic all,2,region: R11,-0.2982536804181216
+logistic all,2,region: R21,-0.22370840633211736
+logistic all,2,region: R22,-0.15429381599159564
+logistic all,2,region: R23,-0.6590041110745316
+logistic all,2,region: R25,-0.03138088556386947
+logistic all,2,region: R26,-0.27898508799412586
+logistic all,2,region: R31,-0.4703331170953826
+logistic all,2,region: R41,-0.2900807691053757
+logistic all,2,region: R42,-0.23250751337489187
+logistic all,2,region: R43,-0.4392425155461657
+logistic all,2,region: R52,-0.1662351239877867
+logistic all,2,region: R53,0.07392998967956566
+logistic all,2,region: R54,-0.17510373643461694
+logistic all,2,region: R72,-0.41947539662445615
+logistic all,2,region: R73,-0.481604699642353
+logistic all,2,region: R74,0.022849040655355413
+logistic all,2,region: R82,-0.08396438932671903
+logistic all,2,region: R83,-0.5562067363005502
+logistic all,2,region: R91,-0.47625610466988677
+logistic all,2,region: R93,-0.32877240327442414
+logistic all,2,region: R94,-0.22287559165308116
+logistic all,3,intercept,-3.0236100939020614
+logistic all,3,driver age: 18-20,-0.18344284656601906
+logistic all,3,driver age: 21-25,-0.39308166746344736
+logistic all,3,driver age: 26-30,-0.5748404440101461
+logistic all,3,driver age: 31-40,-0.3987237811454626
+logistic all,3,driver age: 51-70,0.0007327588476622886
+logistic all,3,driver age: 71+,0.22152554977161262
+logistic all,3,bonus-malus: 51-59,0.23118973093365922
+logistic all,3,bonus-malus: 60-79,0.4895870814306696
+logistic all,3,bonus-malus: 80-99,0.5562645533387472
+logistic all,3,bonus-malus: 100+,1.19874022438803
+logistic all,3,vehicle age: 0,0.761799216589331
+logistic all,3,vehicle age: 6-10,0.11197584288000799
+logistic all,3,vehicle age: 11-15,-0.09600788765053418
+logistic all,3,vehicle age: 16+,-0.35328410777144
+logistic all,3,vehicle power: 4,-0.2378485282403629
+logistic all,3,vehicle power: 5,-0.007986868935008681
+logistic all,3,vehicle power: 7,-0.1021642357826724
+logistic all,3,vehicle power: 8,-0.32952017876620165
+logistic all,3,vehicle power: 9+,-0.047007925287802524
+logistic all,3,density: log of inhabitants per km2,0.031107392663021035
+logistic all,3,vehicle brand: B1,0.0806132568288662
+logistic all,3,vehicle brand: B10,0.0892988242904641
+logistic all,3,vehicle brand: B11,0.0765400626173555
+logistic all,3,vehicle brand: B13,0.10111039306346561
+logistic all,3,vehicle brand: B14,-0.05108192796467481
+logistic all,3,vehicle brand: B2,0.09764546186920729
+logistic all,3,vehicle brand: B3,0.07372811468750487
+logistic all,3,vehicle brand: B4,0.06137002029849229
+logistic all,3,vehicle brand: B5,0.15792453493652914
+logistic all,3,vehicle brand: B6,0.04818084286523171
+logistic all,3,fuel: diesel,-0.12957191496780443
+logistic all,3,region: R11,-0.31550872624606097
+logistic all,3,region: R21,-0.21607026065266857
+logistic all,3,region: R22,-0.11636084119280145
+logistic all,3,region: R23,-0.5918014978584873
+logistic all,3,region: R25,-0.07415508996211755
+logistic all,3,region: R26,-0.23430251308155112
+logistic all,3,region: R31,-0.4662226464801151
+logistic all,3,region: R41,-0.300026718403989
+logistic all,3,region: R42,-0.16259868411641282
+logistic all,3,region: R43,-0.4401961780537046
+logistic all,3,region: R52,-0.15988330648477755
+logistic all,3,region: R53,0.058821755289112085
+logistic all,3,region: R54,-0.15332738364393514
+logistic all,3,region: R72,-0.3954452497549909
+logistic all,3,region: R73,-0.45752656187083857
+logistic all,3,region: R74,-0.0601768785051993
+logistic all,3,region: R82,-0.11119844007881721
+logistic all,3,region: R83,-0.5545823386803778
+logistic all,3,region: R91,-0.45753637226984584
+logistic all,3,region: R93,-0.3459485664200664
+logistic all,3,region: R94,-0.25845308276244916
+logistic all,4,intercept,-2.98298887056384
+logistic all,4,driver age: 18-20,-0.19296358734626703
+logistic all,4,driver age: 21-25,-0.3703402186434333
+logistic all,4,driver age: 26-30,-0.5707182494832478
+logistic all,4,driver age: 31-40,-0.38806523247429137
+logistic all,4,driver age: 51-70,0.008815356644073877
+logistic all,4,driver age: 71+,0.201730892339646
+logistic all,4,bonus-malus: 51-59,0.26450265874148315
+logistic all,4,bonus-malus: 60-79,0.5159164492593159
+logistic all,4,bonus-malus: 80-99,0.5526375833763649
+logistic all,4,bonus-malus: 100+,1.1728373405734391
+logistic all,4,vehicle age: 0,0.7446595409888579
+logistic all,4,vehicle age: 6-10,0.08833919118247018
+logistic all,4,vehicle age: 11-15,-0.10638122657170017
+logistic all,4,vehicle age: 16+,-0.4184220377296956
+logistic all,4,vehicle power: 4,-0.22935167265437675
+logistic all,4,vehicle power: 5,-0.0151659386070118
+logistic all,4,vehicle power: 7,-0.10899138576926269
+logistic all,4,vehicle power: 8,-0.32193705369926634
+logistic all,4,vehicle power: 9+,-0.05631330432988831
+logistic all,4,density: log of inhabitants per km2,0.028826827824758712
+logistic all,4,vehicle brand: B1,0.08567747364177036
+logistic all,4,vehicle brand: B10,0.04224826239364181
+logistic all,4,vehicle brand: B11,0.08818642785777073
+logistic all,4,vehicle brand: B13,0.13299626721004784
+logistic all,4,vehicle brand: B14,-0.10771624738997516
+logistic all,4,vehicle brand: B2,0.09944146194577018
+logistic all,4,vehicle brand: B3,0.05797986600319513
+logistic all,4,vehicle brand: B4,0.05800404672713986
+logistic all,4,vehicle brand: B5,0.15247504279497953
+logistic all,4,vehicle brand: B6,0.06911196519046188
+logistic all,4,fuel: diesel,-0.14958782267257956
+logistic all,4,region: R11,-0.29873665323126447
+logistic all,4,region: R21,-0.198884859545265
+logistic all,4,region: R22,-0.23001262925925517
+logistic all,4,region: R23,-0.6727694474775656
+logistic all,4,region: R25,-0.03584376253413559
+logistic all,4,region: R26,-0.23620559591646387
+logistic all,4,region: R31,-0.4976665318464204
+logistic all,4,region: R41,-0.2818239641400656
+logistic all,4,region: R42,-0.1896060960752033
+logistic all,4,region: R43,-0.3529780478460378
+logistic all,4,region: R52,-0.1658689719205035
+logistic all,4,region: R53,0.05714934519592441
+logistic all,4,region: R54,-0.1532423992582655
+logistic all,4,region: R72,-0.4444906085477816
+logistic all,4,region: R73,-0.46219442888655093
+logistic all,4,region: R74,0.04911603854871656
+logistic all,4,region: R82,-0.10836960188908361
+logistic all,4,region: R83,-0.5760494830697875
+logistic all,4,region: R91,-0.47903887096253767
+logistic all,4,region: R93,-0.34090301288797203
+logistic all,4,region: R94,-0.2748725412447376
+logistic all,all,intercept,-2.992448766839942
+logistic all,all,driver age: 18-20,-0.17849937778411368
+logistic all,all,driver age: 21-25,-0.38980147355736583
+logistic all,all,driver age: 26-30,-0.5762484447114375
+logistic all,all,driver age: 31-40,-0.391823489692095
+logistic all,all,driver age: 51-70,0.0015013301755282074
+logistic all,all,driver age: 71+,0.20188108054300122
+logistic all,all,bonus-malus: 51-59,0.24035898894965896
+logistic all,all,bonus-malus: 60-79,0.5011104611473566
+logistic all,all,bonus-malus: 80-99,0.5540043580930093
+logistic all,all,bonus-malus: 100+,1.179187862612686
+logistic all,all,vehicle age: 0,0.7604099907419754
+logistic all,all,vehicle age: 6-10,0.10392950414254218
+logistic all,all,vehicle age: 11-15,-0.09623844745227271
+logistic all,all,vehicle age: 16+,-0.3848399604758652
+logistic all,all,vehicle power: 4,-0.23340638860091825
+logistic all,all,vehicle power: 5,-0.014473465909917233
+logistic all,all,vehicle power: 7,-0.10454541963844008
+logistic all,all,vehicle power: 8,-0.33618350740290587
+logistic all,all,vehicle power: 9+,-0.05254272941912103
+logistic all,all,density: log of inhabitants per km2,0.027893662015088826
+logistic all,all,vehicle brand: B1,0.08022676574122073
+logistic all,all,vehicle brand: B10,0.07001695539684999
+logistic all,all,vehicle brand: B11,0.09235399286452141
+logistic all,all,vehicle brand: B13,0.1091697421442765
+logistic all,all,vehicle brand: B14,-0.06610269564574221
+logistic all,all,vehicle brand: B2,0.09428839489599308
+logistic all,all,vehicle brand: B3,0.06432277541040224
+logistic all,all,vehicle brand: B4,0.06457051735012118
+logistic all,all,vehicle brand: B5,0.15713471405878796
+logistic all,all,vehicle brand: B6,0.05880811057285524
+logistic all,all,fuel: diesel,-0.14306863648590254
+logistic all,all,region: R11,-0.3008461720618111
+logistic all,all,region: R21,-0.20808751058964686
+logistic all,all,region: R22,-0.16074045323886374
+logistic all,all,region: R23,-0.6485107116077548
+logistic all,all,region: R25,-0.05165406878295705
+logistic all,all,region: R26,-0.2625280219449705
+logistic all,all,region: R31,-0.46426192496610397
+logistic all,all,region: R41,-0.29220573753782986
+logistic all,all,region: R42,-0.15099957743506875
+logistic all,all,region: R43,-0.3943919866809197
+logistic all,all,region: R52,-0.157826564961028
+logistic all,all,region: R53,0.07577084270294947
+logistic all,all,region: R54,-0.1667571643792243
+logistic all,all,region: R72,-0.4140330920002999
+logistic all,all,region: R73,-0.47586913133104414
+logistic all,all,region: R74,-0.025550543408261555
+logistic all,all,region: R82,-0.09470603742554266
+logistic all,all,region: R83,-0.5762608425745612
+logistic all,all,region: R91,-0.4714480079543072
+logistic all,all,region: R93,-0.33589570098229016
+logistic all,all,region: R94,-0.2583928497391382

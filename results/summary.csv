@@ -1,0 +1,9 @@
+key,value
+policies,678013.0
+claim_share,0.05023502499214617
+frequency,0.1006138781922095
+dispersion,2.266797229431412
+deviance_gain_pct,5.184879531136172
+gini_poisson,0.28823340935388864
+gini_logistic,0.2508782082003155
+top_decile_lift_poisson,2.679421684856978

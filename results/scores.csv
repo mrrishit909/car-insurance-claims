@@ -1,0 +1,4 @@
+model,mean_deviance,gini,top_decile_lift
+one frequency for everyone,0.3302821913599936,-0.006280893331926052,1.0
+Poisson model with exposure,0.3131574576251813,0.28823340935388864,2.679421684856978
+"logistic model of any claim, no exposure",,0.2508782082003155,2.4808557225885544

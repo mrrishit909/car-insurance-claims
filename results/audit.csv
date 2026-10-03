@@ -1,0 +1,29 @@
+check,value
+policies in the file,678013.0
+columns,12.0
+policies in OpenML's description,677991.0
+duplicate policy ids,0.0
+blank values,0.0
+policies with a claim,34060.0
+claims (raw),36102.0
+claims (capped at 4),36056.0
+policies with more than 4 claims,9.0
+most claims on one policy,16.0
+exposure in years (raw),358499.4454629838
+exposure in years (capped at 1),358360.1054629838
+policies with an exposure over 1 year,1224.0
+longest exposure,2.01
+shortest exposure,0.0027322404371584
+claims per exposure-year (capped),0.1006138781922095
+policies with a vehicle age over 20,8322.0
+oldest vehicle,100.0
+policies with a driver over 90,401.0
+policies with a bonus-malus over 150,209.0
+distinct covariate profiles,528765.0
+policies whose profile another policy shares,257911.0
+largest profile,22.0
+fold 0 policies,135536.0
+fold 1 policies,135558.0
+fold 2 policies,136373.0
+fold 3 policies,134585.0
+fold 4 policies,135961.0
