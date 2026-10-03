@@ -8,6 +8,7 @@ BonusMalus, VehBrand, VehGas, Density (inhabitants per square kilometre where th
 """
 import hashlib
 import json
+import re
 import ssl
 import urllib.request
 from datetime import date
@@ -17,6 +18,7 @@ import certifi
 
 HERE = Path(__file__).parent
 URL = "https://openml.org/data/v1/download/20649148/freMTPL2freq.arff"
+API = "https://www.openml.org/api/v1/json/data/41214"
 CTX = ssl.create_default_context(cafile=certifi.where())
 
 
@@ -26,6 +28,8 @@ def main():
     blob = urllib.request.urlopen(urllib.request.Request(URL, headers={"User-Agent": "research-portfolio (Rishit Raj Mathur)"}), context=CTX, timeout=600).read()
     (HERE / "data" / "freMTPL2freq.arff").write_bytes(blob)
     lines = blob.decode("utf-8").splitlines(); start = lines.index("@data") + 1; info = {"pulled": date.today().isoformat(), "url": URL, "bytes": len(blob), "rows": len(lines) - start, "sha256": hashlib.sha256(blob).hexdigest()}
+    desc = json.loads(urllib.request.urlopen(urllib.request.Request(API, headers={"User-Agent": "research-portfolio (Rishit Raj Mathur)"}), context=CTX, timeout=120).read())["data_set_description"]
+    info["openml_licence"] = desc["licence"]; info["openml_description_policies"] = int(re.search(r"([0-9,]+) motor third-part", desc["description"]).group(1).replace(",", ""))
     (HERE / "results" / "pull.json").write_text(json.dumps(info, indent=2) + "\n")
     print(json.dumps(info))
 
